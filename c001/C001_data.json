@@ -1,0 +1,719 @@
+{
+ "code": "CTNE 001",
+ "episode": 1,
+ "newsDate": "2026-10-23",
+ "publishDate": "2026-11-01",
+ "title": "A Dress Rehearsal for the Moon",
+ "field": "Science & Tech",
+ "reporter": "Sarah Jenkins",
+ "youtubeId": "TMYQHc0EEfw",
+ "thumbnail": "C001_thumb.jpg",
+ "worksheetUrl": "",
+ "sentences": [
+  {
+   "id": "D1",
+   "text": "NASA has laid out plans for its next Artemis mission, and the crew won't land on the Moon.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "laid",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "out",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "plans",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "for",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "won't",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "land",
+     "type": "linking",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "Listen to \"laid out\": the d slides into out, so it sounds like \"lay-dout.\" In \"won't land on,\" the t is almost gone.",
+   "audio": "C001_D01.mp3"
+  },
+  {
+   "id": "D2",
+   "text": "Instead, four astronauts will spend two weeks in orbit, testing prototypes of two Moon landers.",
+   "blanks": [
+    {
+     "index": 4,
+     "answer": "spend",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "two",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "2"
+     ]
+    },
+    {
+     "index": 7,
+     "answer": "in",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "orbit",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "testing",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "prototypes",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "of",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Spend two weeks\" runs together. \"Prototypes\" has the stress on the first part: PRO-to-types.",
+   "audio": "C001_D02.mp3"
+  },
+  {
+   "id": "D3",
+   "text": "The mission, set for 2027, aims to reduce risk before astronauts return to the lunar surface.",
+   "blanks": [
+    {
+     "index": 4,
+     "answer": "2027",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "twenty twenty-seven"
+     ]
+    },
+    {
+     "index": 5,
+     "answer": "aims",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "to",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "risk",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "before",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "lunar",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "surface",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Aims to\" sounds like \"aim-stuh.\" The word \"to\" is very weak here.",
+   "audio": "C001_D03.mp3"
+  },
+  {
+   "id": "D4",
+   "text": "The plan calls for three spacecraft on three different rockets, something NASA says it has never attempted.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "calls",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "for",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "three",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "3"
+     ]
+    },
+    {
+     "index": 6,
+     "answer": "on",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "different",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "never",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 16,
+     "answer": "attempted",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Calls for\" sounds like \"call-sfer.\" \"Different\" often has only two beats: DIF-rent.",
+   "audio": "C001_D04.mp3"
+  },
+  {
+   "id": "D5",
+   "text": "First, Blue Origin will put a test model of its lander into orbit, where it'll wait for the crew.",
+   "blanks": [
+    {
+     "index": 4,
+     "answer": "put",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "a",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "of",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "into",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "it'll",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "wait",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "for",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Put a\" sounds like \"pudda.\" \"It'll wait for\" sounds like \"idl way-fer\" because the t sounds almost disappear.",
+   "audio": "C001_D05.mp3"
+  },
+  {
+   "id": "D6",
+   "text": "Days later, the astronauts will blast off aboard NASA's Orion capsule to rendezvous and dock with it.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "later",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "blast",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "off",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "aboard",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "to",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "rendezvous",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "dock",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Blast off\" sounds like \"blas-toff.\" In \"rendezvous,\" the s and z are silent: RON-day-voo.",
+   "audio": "C001_D06.mp3"
+  },
+  {
+   "id": "D7",
+   "text": "Once they're docked, the crew will open the hatch and spend about two days inside, checking controls and life support.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "they're",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "docked",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "hatch",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "and",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "spend",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "about",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "checking",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"They're\" sounds just like \"there.\" \"Spend about\" sounds like \"spen-duh-bout.\"",
+   "audio": "C001_D07.mp3"
+  },
+  {
+   "id": "D8",
+   "text": "SpaceX will launch a test Starship, and Orion will dock with it for up to two hours.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "launch",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "with",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "for",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "up",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "to",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "hours",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Up to\" sounds like \"up-tuh.\" \"Dock with it\" runs together: \"dock-wi-thit.\"",
+   "audio": "C001_D08.mp3"
+  },
+  {
+   "id": "D9",
+   "text": "The astronauts won't go inside; instead, engineers will monitor how the two ships handle while joined.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "won't",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "inside",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "monitor",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "how",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "handle",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "while",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 15,
+     "answer": "joined",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "The t in \"won't\" is barely heard. \"Joined\" ends with a soft d sound.",
+   "audio": "C001_D09.mp3"
+  },
+  {
+   "id": "D10",
+   "text": "Before heading home, the crew will carry out extra tests, then splash down in the Pacific off California.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "heading",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "carry",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "out",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "extra",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "splash",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "down",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "in",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Carry out\" sounds like \"carry-yout.\" \"Splash down\" is said quickly, with the stress on DOWN.",
+   "audio": "C001_D10.mp3"
+  },
+  {
+   "id": "D11",
+   "text": "The lessons should pave the way for NASA's next milestone, a landing near the Moon's south pole in 2028.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "lessons",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 2,
+     "answer": "should",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "pave",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "the",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "way",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "milestone",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "near",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 18,
+     "answer": "2028",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "twenty twenty-eight"
+     ]
+    }
+   ],
+   "soundNote": "\"Pave the way\" sounds like \"pave-thuh-way\" because \"the\" is very weak.",
+   "audio": "C001_D11.mp3"
+  },
+  {
+   "id": "D12",
+   "text": "With preparations underway, the four-member crew is expected to lift off next summer.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "preparations",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 2,
+     "answer": "underway",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "is",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "expected",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "lift",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "off",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "next",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Lift off\" sounds like \"lif-toff.\" \"Expected to\" sounds like \"expec-tid-tuh.\"",
+   "audio": "C001_D12.mp3"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "lay out",
+   "meaning": "to explain a plan clearly and in detail",
+   "example": "The coach laid out a new training plan for the season."
+  },
+  {
+   "term": "call for",
+   "meaning": "to need or include something as part of a plan",
+   "example": "The recipe calls for two cups of flour."
+  },
+  {
+   "term": "blast off",
+   "meaning": "to leave the ground very fast, like a rocket",
+   "example": "The kids cheered as the toy rocket blasted off."
+  },
+  {
+   "term": "carry out",
+   "meaning": "to do a task or test",
+   "example": "The nurses carried out a quick check on every patient."
+  },
+  {
+   "term": "splash down",
+   "meaning": "to come back from space and land in the sea",
+   "example": "The capsule is expected to splash down early in the morning."
+  },
+  {
+   "term": "pave the way (for)",
+   "meaning": "to make a later step easier or possible",
+   "example": "The small test paved the way for a bigger project."
+  },
+  {
+   "term": "attempt",
+   "meaning": "to try to do something difficult",
+   "example": "She attempted to swim across the lake."
+  },
+  {
+   "term": "monitor",
+   "meaning": "to watch something closely over time",
+   "example": "Doctors will monitor the baby through the night."
+  },
+  {
+   "term": "underway",
+   "meaning": "already started and now happening",
+   "example": "Repairs on the bridge are now underway."
+  },
+  {
+   "term": "rendezvous",
+   "meaning": "to meet at a planned place and time",
+   "example": "The two boats will rendezvous near the island."
+  }
+ ],
+ "moreFromEmily": [
+  {
+   "kind": "linking",
+   "phrase": "it'll wait for",
+   "soundsLike": "idl way-fer",
+   "sentence": "D5",
+   "note": "The t in it'll becomes a soft d, and the t in wait almost disappears before for."
+  },
+  {
+   "kind": "linking",
+   "phrase": "spend about",
+   "soundsLike": "spen-duh-bout",
+   "sentence": "D7",
+   "note": "The d at the end of spend joins the first sound of about, so the two words become one."
+  },
+  {
+   "kind": "linking",
+   "phrase": "lift off next",
+   "soundsLike": "lif-toff next",
+   "sentence": "D12",
+   "note": "The t of lift moves to off, and the f of off runs straight into next."
+  },
+  {
+   "kind": "word",
+   "word": "splash down",
+   "stress": "splash DOWN",
+   "meaning": "to come back from space and land in the ocean",
+   "example": "The crew will splash down near the coast after a long trip.",
+   "sentence": "D10"
+  },
+  {
+   "kind": "word",
+   "word": "prototype",
+   "stress": "PRO-to-type",
+   "meaning": "an early test version of a machine or product",
+   "example": "The company showed a prototype of its new electric bike.",
+   "sentence": "D2"
+  },
+  {
+   "kind": "word",
+   "word": "blast off",
+   "stress": "blast OFF",
+   "meaning": "to leave the ground very fast, like a rocket",
+   "example": "The rocket will blast off at sunrise.",
+   "sentence": "D6"
+  }
+ ]
+}
