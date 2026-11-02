@@ -1,0 +1,768 @@
+{
+ "code": "CTNE 002",
+ "episode": 2,
+ "newsDate": "2026-11-01",
+ "publishDate": "2026-11-02",
+ "title": "An Extra Hour, and Earlier Sunsets",
+ "field": "Society & Life",
+ "reporter": "Sofia Park",
+ "youtubeId": "PO6dPBGOfgk",
+ "thumbnail": "C002_thumb.jpg",
+ "worksheetUrl": "",
+ "sentences": [
+  {
+   "id": "D1",
+   "text": "Most Americans set their clocks back an hour early Sunday as daylight saving time ended.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "set",
+     "type": "linking",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "their",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "back",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "an",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "hour",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "early",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "as",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "ended",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'back an hour' runs together like one word: the k moves onto 'an', and the h in 'hour' is silent.",
+   "audio": "C002_D01.mp3"
+  },
+  {
+   "id": "D2",
+   "text": "The switch meant an extra hour of sleep, but sunset now arrives an hour earlier.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "switch",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "an",
+     "type": "linking",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "extra",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "of",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "sunset",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "an",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "hour",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "earlier",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'arrives an hour' sounds like 'arrive-za-nour'. 'of' in 'hour of sleep' is very short: 'hour-uv'.",
+   "audio": "C002_D02.mp3"
+  },
+  {
+   "id": "D3",
+   "text": "And it comes amid a long-running push in Congress to stop changing the clocks altogether.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "comes",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "amid",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "a",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "long-running",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "push",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "to",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "altogether",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'comes amid a' sounds like 'kum-zuh-mid-uh'. The s joins the next word.",
+   "audio": "C002_D03.mp3"
+  },
+  {
+   "id": "D4",
+   "text": "Overnight, smartphones and other connected devices switched to the new time on their own.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "Overnight",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "connected",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "devices",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "switched",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "on",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "their",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "own",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'on their own' is fast and soft: 'on-ther-own'. 'switched to' loses the d sound: 'switch-tuh'.",
+   "audio": "C002_D04.mp3"
+  },
+  {
+   "id": "D5",
+   "text": "Older clocks on ovens, microwaves and car dashboards, though, still had to be changed by hand.",
+   "blanks": [
+    {
+     "index": 7,
+     "answer": "dashboards",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "though",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "had",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "to",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "be",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "changed",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "by",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 15,
+     "answer": "hand",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'had to be' sounds like 'hadda-be': the d and t melt together.",
+   "audio": "C002_D05.mp3"
+  },
+  {
+   "id": "D6",
+   "text": "Most of Arizona and Hawaii stay on standard time all year, along with U.S. territories like Puerto Rico and Guam.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "Most",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 1,
+     "answer": "of",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "stay",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "standard",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "along",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "with",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "territories",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'Most of' sounds like 'mo-stuv': the t moves onto 'of'.",
+   "audio": "C002_D06.mp3"
+  },
+  {
+   "id": "D7",
+   "text": "Evenings now get dark about an hour earlier on the clock, just as the days grow shorter.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "get",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "dark",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "about",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "an",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "just",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "as",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 15,
+     "answer": "grow",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "shorter",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'about an hour' sounds like 'a-bou-da-nour': the t becomes a soft d.",
+   "audio": "C002_D07.mp3"
+  },
+  {
+   "id": "D8",
+   "text": "In July, the House voted 308 to 117 to make daylight saving time permanent.",
+   "blanks": [
+    {
+     "index": 4,
+     "answer": "voted",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "308",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "three hundred eight",
+      "three hundred and eight"
+     ]
+    },
+    {
+     "index": 7,
+     "answer": "117",
+     "type": "number",
+     "inVideo": true,
+     "accept": [
+      "one hundred seventeen",
+      "one hundred and seventeen"
+     ]
+    },
+    {
+     "index": 8,
+     "answer": "to",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "make",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "permanent",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "Listen for the two numbers: three hundred eight, and one hundred seventeen. 'to make' sounds like 'tuh-make'.",
+   "audio": "C002_D08.mp3"
+  },
+  {
+   "id": "D9",
+   "text": "But the bill has stalled in the Senate, so the twice-a-year switch remains the law, for now.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "bill",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "has",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "stalled",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "in",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "the",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "twice-a-year",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "remains",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "for",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 16,
+     "answer": "now",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'stalled in the' sounds like 'stall-din-thuh': the d joins 'in'. 'has' is weak: 'iz'.",
+   "audio": "C002_D09.mp3"
+  },
+  {
+   "id": "D10",
+   "text": "Supporters, including a Florida congressman, say later sunsets would help tourism, the economy and outdoor activity.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "Supporters",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 1,
+     "answer": "including",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "congressman",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "would",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "tourism",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "economy",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "outdoor",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'including a' sounds like 'in-clu-ding-uh'. 'would' is short and soft: 'wud'.",
+   "audio": "C002_D10.mp3"
+  },
+  {
+   "id": "D11",
+   "text": "Some sleep researchers push back, saying permanent standard time lines up better with the sun.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "researchers",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "push",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "back",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "permanent",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "lines",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "up",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "better",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "with",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'lines up' sounds like 'line-zup'. In 'push back', both words are strong.",
+   "audio": "C002_D11.mp3"
+  },
+  {
+   "id": "D12",
+   "text": "Unless Congress acts, clocks are on track to spring forward again on March 14 next year.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "Unless",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 2,
+     "answer": "acts",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "on",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "track",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "to",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "spring",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "forward",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "14",
+     "type": "number",
+     "inVideo": true,
+     "accept": [
+      "fourteen",
+      "fourteenth",
+      "14th"
+     ]
+    }
+   ],
+   "soundNote": "'on track to' sounds like 'on-trak-tuh'. 'March 14' is said 'March fourteenth'.",
+   "audio": "C002_D12.mp3"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "comes amid",
+   "meaning": "happens at the same time as a bigger situation",
+   "example": "The price change comes amid a busy shopping season."
+  },
+  {
+   "term": "on track to",
+   "meaning": "likely to happen as planned",
+   "example": "The new library is on track to open in May."
+  },
+  {
+   "term": "set (the clocks) back",
+   "meaning": "move the time on a clock to an earlier hour",
+   "example": "Before bed, she set the kitchen clock back by one hour."
+  },
+  {
+   "term": "push back",
+   "meaning": "argue against a plan or idea",
+   "example": "Students pushed back when the school cut their lunch break."
+  },
+  {
+   "term": "line up with",
+   "meaning": "match or fit well with something",
+   "example": "His story did not line up with the photos."
+  },
+  {
+   "term": "spring forward",
+   "meaning": "move clocks one hour ahead in spring",
+   "example": "Many people feel tired the week the clocks spring forward."
+  },
+  {
+   "term": "permanent",
+   "meaning": "lasting forever, not just for a while",
+   "example": "After a summer job, he finally got a permanent position."
+  },
+  {
+   "term": "supporters",
+   "meaning": "people who agree with and help a plan or person",
+   "example": "Supporters of the new park held a picnic there."
+  },
+  {
+   "term": "territories",
+   "meaning": "areas a country controls that are not full states",
+   "example": "Mail to the islands is handled like mail to the territories."
+  },
+  {
+   "term": "stalled",
+   "meaning": "stopped making progress",
+   "example": "Talks on the new contract stalled over pay."
+  }
+ ],
+ "moreFromEmily": [
+  {
+   "kind": "linking",
+   "phrase": "comes amid a",
+   "soundsLike": "kum-zuh-mid-uh",
+   "sentence": "D3",
+   "note": "The s at the end of 'comes' joins 'amid', and 'a' is just a quick 'uh'."
+  },
+  {
+   "kind": "linking",
+   "phrase": "stalled in the",
+   "soundsLike": "stall-din-thuh",
+   "sentence": "D9",
+   "note": "The d moves onto 'in', and 'the' becomes a soft 'thuh'."
+  },
+  {
+   "kind": "linking",
+   "phrase": "Most of",
+   "soundsLike": "mo-stuv",
+   "sentence": "D6",
+   "note": "The t moves onto 'of', and 'of' turns into a short 'uv'."
+  },
+  {
+   "kind": "word",
+   "word": "stalled",
+   "stress": "STALLED",
+   "meaning": "stopped making progress",
+   "example": "The road project stalled when the money ran out.",
+   "sentence": "D9"
+  },
+  {
+   "kind": "word",
+   "word": "line up with",
+   "stress": "line UP with",
+   "meaning": "to match something well",
+   "example": "Her answers line up with what the teacher said.",
+   "sentence": "D11"
+  },
+  {
+   "kind": "word",
+   "word": "territories",
+   "stress": "TER-ri-tor-ies",
+   "meaning": "places a country controls that are not states",
+   "example": "Some territories have their own flags and holidays.",
+   "sentence": "D6"
+  }
+ ]
+}
