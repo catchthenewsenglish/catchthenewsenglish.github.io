@@ -1,0 +1,779 @@
+{
+ "code": "CTNE 003",
+ "episode": 3,
+ "newsDate": "2026-10-26",
+ "publishDate": "2026-11-04",
+ "title": "A Lifeline for Coral",
+ "field": "Environment & Weather",
+ "reporter": "Ben Carter",
+ "youtubeId": "yX20PL9-01I",
+ "thumbnail": "C003_thumb.jpg",
+ "worksheetUrl": "",
+ "sentences": [
+  {
+   "id": "D1",
+   "text": "Scientists say corals that have turned white can recover quickly, if they touch a healthy twin.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "that",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "have",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "turned",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "recover",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "touch",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "a",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 15,
+     "answer": "twin",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'that have' sounds like 'that-uv' — the h in have almost disappears.",
+   "audio": "C003_D01.mp3"
+  },
+  {
+   "id": "D2",
+   "text": "In an ocean heat wave, corals lose the tiny partners that feed them and turn white, a process called bleaching.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "an",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "heat",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "wave",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "partners",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "feed",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "them",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 17,
+     "answer": "process",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 19,
+     "answer": "bleaching",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'heat wave' runs together as one long word. 'feed them' sounds like 'feed-em'.",
+   "audio": "C003_D02.mp3"
+  },
+  {
+   "id": "D3",
+   "text": "Bleached corals are often written off, but new research suggests otherwise.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "are",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "written",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "off",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "research",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "suggests",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "otherwise",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'written off' sounds like 'rit-n-off' — the t in written is almost silent.",
+   "audio": "C003_D03.mp3"
+  },
+  {
+   "id": "D4",
+   "text": "At a Stanford lab on the California coast, this discovery started with a lucky accident.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "a",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "on",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "coast",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "discovery",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "started",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "with",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "a",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "accident",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'with a' sounds like 'with-uh', very short.",
+   "audio": "C003_D04.mp3"
+  },
+  {
+   "id": "D5",
+   "text": "Two pieces of coral tipped over in a tank, and a healthy one ended up touching a bleached one.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "Two",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "2"
+     ]
+    },
+    {
+     "index": 2,
+     "answer": "of",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "tipped",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "over",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "in",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "a",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "ended",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "up",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "touching",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'tipped over in a' flows together: 'tip-toh-ver-in-uh'. 'ended up' sounds like 'en-di-dup'.",
+   "audio": "C003_D05.mp3"
+  },
+  {
+   "id": "D6",
+   "text": "Where the two touched, the pale coral began to get its color back within days.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "touched",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "pale",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "get",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "its",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "color",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "within",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "days",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'get its' sounds like 'geh-dits'. The t becomes soft.",
+   "audio": "C003_D06.mp3"
+  },
+  {
+   "id": "D7",
+   "text": "The team set up ten pairs of coral, letting the pieces touch in five and keeping five apart.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "set",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "up",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "ten",
+     "type": "number",
+     "inVideo": true,
+     "accept": [
+      "10"
+     ]
+    },
+    {
+     "index": 6,
+     "answer": "of",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "the",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "five",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "5"
+     ]
+    },
+    {
+     "index": 16,
+     "answer": "five",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "5"
+     ]
+    },
+    {
+     "index": 17,
+     "answer": "apart",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'set up' sounds like 'seh-dup'.",
+   "audio": "C003_D07.mp3"
+  },
+  {
+   "id": "D8",
+   "text": "Within about seven weeks, all five touching pieces had fully recovered, the fastest recovery documented so far, researchers say.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "about",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 2,
+     "answer": "seven",
+     "type": "number",
+     "inVideo": true,
+     "accept": [
+      "7"
+     ]
+    },
+    {
+     "index": 5,
+     "answer": "five",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "5"
+     ]
+    },
+    {
+     "index": 8,
+     "answer": "had",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "fully",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "fastest",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "documented",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "so",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'pieces had' sounds like 'pieces-ud' — had is very weak.",
+   "audio": "C003_D08.mp3"
+  },
+  {
+   "id": "D9",
+   "text": "The pairs kept just a few millimeters apart got worse, and some of them died.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "just",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "a",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "millimeters",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "worse",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "and",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "some",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "of",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "them",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'some of them' sounds like 'sum-uh-dem'.",
+   "audio": "C003_D09.mp3"
+  },
+  {
+   "id": "D10",
+   "text": "Under a microscope, their tissues appeared to fuse, opening small channels that let those partners and nutrients cross.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "a",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "appeared",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "to",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "fuse",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "channels",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "let",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 16,
+     "answer": "nutrients",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'appeared to' sounds like 'appeared-uh'. The t in to is soft.",
+   "audio": "C003_D10.mp3"
+  },
+  {
+   "id": "D11",
+   "text": "Researchers say the trick can't be scaled up to wild reefs yet, since every coral would need its own clone.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "trick",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "can't",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "be",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "scaled",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "up",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "wild",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "reefs",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "yet",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 17,
+     "answer": "its",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'can't be' sounds a lot like 'can be' — the t is very soft. 'scaled up' joins into 'scale-dup'.",
+   "audio": "C003_D11.mp3"
+  },
+  {
+   "id": "D12",
+   "text": "Next, the team hopes to grow those helpful partners in the lab and deliver them to bleached reefs.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "hopes",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "to",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "grow",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "in",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "the",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "deliver",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "them",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'hopes to' sounds like 'hope-stuh'. 'deliver them' sounds like 'deliver-em'.",
+   "audio": "C003_D12.mp3"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "written off",
+   "meaning": "treated as having no hope or value",
+   "example": "The old bike was written off, but my uncle fixed it in a day."
+  },
+  {
+   "term": "scale up",
+   "meaning": "to make something work at a much bigger size",
+   "example": "The bakery wants to scale up and sell bread in ten cities."
+  },
+  {
+   "term": "tip over",
+   "meaning": "to fall onto its side",
+   "example": "A strong wind made the trash can tip over."
+  },
+  {
+   "term": "set up",
+   "meaning": "to prepare or arrange something",
+   "example": "Volunteers set up tables for the town fair."
+  },
+  {
+   "term": "lifeline",
+   "meaning": "something that gives help or hope when things are bad",
+   "example": "For the small shop, online orders became a lifeline."
+  },
+  {
+   "term": "otherwise",
+   "meaning": "in a different way from what was just said",
+   "example": "Many people thought the plan would fail, but the results showed otherwise."
+  },
+  {
+   "term": "pale",
+   "meaning": "lighter in color than usual",
+   "example": "The leaves looked pale after weeks without sunlight."
+  },
+  {
+   "term": "documented",
+   "meaning": "written down or recorded as fact",
+   "example": "It is the longest dry spell documented in the area."
+  },
+  {
+   "term": "nutrients",
+   "meaning": "things in food that help living things grow",
+   "example": "Plants take nutrients from the soil."
+  },
+  {
+   "term": "fuse",
+   "meaning": "to join together and become one",
+   "example": "The two broken pieces of glass fused in the heat."
+  }
+ ],
+ "moreFromEmily": [
+  {
+   "kind": "linking",
+   "phrase": "tipped over in a",
+   "soundsLike": "tip-toh-ver-in-uh",
+   "sentence": "D5",
+   "note": "Four words flow together with no break. The T in tipped links to over, and 'in a' becomes 'in-uh'."
+  },
+  {
+   "kind": "linking",
+   "phrase": "get its",
+   "soundsLike": "geh-dits",
+   "sentence": "D6",
+   "note": "The T in get becomes a soft D sound and joins its."
+  },
+  {
+   "kind": "linking",
+   "phrase": "some of them",
+   "soundsLike": "sum-uh-dem",
+   "sentence": "D9",
+   "note": "'Of' shrinks to 'uh', and the TH in them gets very light."
+  },
+  {
+   "kind": "word",
+   "word": "scale up",
+   "stress": "scale UP",
+   "meaning": "to make something work at a much bigger size",
+   "example": "The company plans to scale up its recycling program next year.",
+   "sentence": "D11"
+  },
+  {
+   "kind": "word",
+   "word": "documented",
+   "stress": "DOC-u-ment-ed",
+   "meaning": "written down or recorded as fact",
+   "example": "Scientists documented every change in the river.",
+   "sentence": "D8"
+  },
+  {
+   "kind": "word",
+   "word": "otherwise",
+   "stress": "OTH-er-wise",
+   "meaning": "in a different way from what was just said",
+   "example": "The sky looked clear, but the forecast said otherwise.",
+   "sentence": "D3"
+  }
+ ]
+}
