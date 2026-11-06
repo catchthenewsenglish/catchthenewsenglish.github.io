@@ -1,0 +1,823 @@
+{
+ "code": "CTNE 004",
+ "episode": 4,
+ "newsDate": "2026-10-22",
+ "publishDate": "2026-11-06",
+ "title": "Good Jobs, Still Rare",
+ "field": "Economy & Business",
+ "reporter": "David Chen",
+ "youtubeId": "Zb09TmOU25E",
+ "thumbnail": "C004_thumb.jpg",
+ "worksheetUrl": "",
+ "sentences": [
+  {
+   "id": "D1",
+   "text": "Only about four in ten American workers have jobs that meet the bar for a good job, a survey finds.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "four",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "4"
+     ]
+    },
+    {
+     "index": 4,
+     "answer": "ten",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "10"
+     ]
+    },
+    {
+     "index": 7,
+     "answer": "have",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "meet",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "the",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "bar",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "good",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 18,
+     "answer": "survey",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "meet the bar: the T in meet almost disappears before the.",
+   "audio": "C004_D01.mp3"
+  },
+  {
+   "id": "D2",
+   "text": "That share is essentially unchanged from a year ago.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "That",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 1,
+     "answer": "share",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "is",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "essentially",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "unchanged",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "a",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "ago",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "share is sounds like one word: shair-iz.",
+   "audio": "C004_D02.mp3"
+  },
+  {
+   "id": "D3",
+   "text": "That means most jobs have fallen short of that bar for the second year in a row.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "means",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "have",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "fallen",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "short",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "of",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "second",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "year",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "in",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 16,
+     "answer": "row",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "short of sounds like shor-tuv. In a row runs together: in-a-row.",
+   "audio": "C004_D03.mp3"
+  },
+  {
+   "id": "D4",
+   "text": "From warehouse floors to office towers, Gallup surveyed nearly 18,000 workers earlier this year.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "From",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 1,
+     "answer": "warehouse",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "towers",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "surveyed",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "nearly",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "18,000",
+     "type": "number",
+     "inVideo": true,
+     "accept": [
+      "18000",
+      "eighteen thousand"
+     ]
+    },
+    {
+     "index": 11,
+     "answer": "earlier",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "18,000 is said as eighteen thousand. Warehouse is WARE-house.",
+   "audio": "C004_D04.mp3"
+  },
+  {
+   "id": "D5",
+   "text": "Researchers looked at more than pay, including paid time off, respect at work, room to grow and predictable hours.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "looked",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "at",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "pay",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "paid",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "time",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "off",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "respect",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "room",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 15,
+     "answer": "grow",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 17,
+     "answer": "predictable",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "looked at sounds like look-tat.",
+   "audio": "C004_D05.mp3"
+  },
+  {
+   "id": "D6",
+   "text": "Jobs that score well overall count as quality jobs, and they're still in the minority.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "that",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "well",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "overall",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "count",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "as",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "they're",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "in",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "minority",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "count as sounds like coun-taz. They're sounds like there.",
+   "audio": "C004_D06.mp3"
+  },
+  {
+   "id": "D7",
+   "text": "Just over one in five warehouse workers has a quality job, and retail isn't much better.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "over",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 2,
+     "answer": "one",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "1"
+     ]
+    },
+    {
+     "index": 4,
+     "answer": "five",
+     "type": "number",
+     "inVideo": true,
+     "accept": [
+      "5"
+     ]
+    },
+    {
+     "index": 9,
+     "answer": "quality",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "and",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "isn't",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "much",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 15,
+     "answer": "better",
+     "type": "function",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "isn't loses its T. Better sounds like bedder.",
+   "audio": "C004_D07.mp3"
+  },
+  {
+   "id": "D8",
+   "text": "Construction was a notable bright spot, jumping from 45 to 55 percent in a single year.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "was",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "notable",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "bright",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "spot",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "45",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "forty-five"
+     ]
+    },
+    {
+     "index": 10,
+     "answer": "55",
+     "type": "number",
+     "inVideo": true,
+     "accept": [
+      "fifty-five"
+     ]
+    },
+    {
+     "index": 11,
+     "answer": "percent",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "single",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "bright spot: the T in bright is very soft. Fifty-five is said quickly.",
+   "audio": "C004_D08.mp3"
+  },
+  {
+   "id": "D9",
+   "text": "The report found that workers in weaker jobs were nearly twice as likely to switch companies within a year.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "found",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "that",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "weaker",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "twice",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "as",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "likely",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "switch",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 16,
+     "answer": "within",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "twice as likely sounds like twy-suz-likely.",
+   "audio": "C004_D09.mp3"
+  },
+  {
+   "id": "D10",
+   "text": "That kind of turnover is costly for businesses, and quality jobs are also linked to better health.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "kind",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "of",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "turnover",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "costly",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "are",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "linked",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "to",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 15,
+     "answer": "better",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "kind of sounds like kinda.",
+   "audio": "C004_D10.mp3"
+  },
+  {
+   "id": "D11",
+   "text": "Meanwhile, nearly one in three employees say they're barely getting by.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "nearly",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "three",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "3"
+     ]
+    },
+    {
+     "index": 6,
+     "answer": "say",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "they're",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "barely",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "getting",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "by",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "they're sounds like there. Getting by sounds like geddin-by.",
+   "audio": "C004_D11.mp3"
+  },
+  {
+   "id": "D12",
+   "text": "A third round is planned for next year, and it will survey many of the same workers again.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "third",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "3rd"
+     ]
+    },
+    {
+     "index": 2,
+     "answer": "round",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "planned",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "next",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "survey",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "many",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "of",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 17,
+     "answer": "again",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "many of sounds like meny-uv.",
+   "audio": "C004_D12.mp3"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "meet the bar",
+   "meaning": "to reach the level that is needed",
+   "example": "Her test score did not meet the bar for the advanced class."
+  },
+  {
+   "term": "for the second year in a row",
+   "meaning": "two years one after another, with no break",
+   "example": "Our town won the cleanest-park award for the second year in a row."
+  },
+  {
+   "term": "fall short of",
+   "meaning": "to fail to reach a goal or level",
+   "example": "The bake sale fell short of its goal by about fifty dollars."
+  },
+  {
+   "term": "barely getting by",
+   "meaning": "having just enough money to live, and no more",
+   "example": "After the rent went up, the young couple was barely getting by."
+  },
+  {
+   "term": "essentially",
+   "meaning": "in the most important way; basically",
+   "example": "The new phone is essentially the same as last year's model."
+  },
+  {
+   "term": "predictable",
+   "meaning": "easy to know ahead of time",
+   "example": "Nurses like a predictable schedule so they can plan family time."
+  },
+  {
+   "term": "notable",
+   "meaning": "worth paying attention to",
+   "example": "The most notable change in the library is the new reading room."
+  },
+  {
+   "term": "linked",
+   "meaning": "connected in some way, often without proof of cause",
+   "example": "Poor sleep is linked to feeling tired during the day."
+  },
+  {
+   "term": "paid time off",
+   "meaning": "days away from work when you still get paid",
+   "example": "She used three days of paid time off to visit her parents."
+  },
+  {
+   "term": "quality job",
+   "meaning": "a job with fair pay, respect, room to grow and steady hours",
+   "example": "Many students hope a degree will lead to a quality job."
+  },
+  {
+   "term": "turnover",
+   "meaning": "how often workers leave and must be replaced",
+   "example": "The restaurant has high turnover, so it is always training new staff."
+  },
+  {
+   "term": "a bright spot",
+   "meaning": "one good part of a mostly bad situation",
+   "example": "The team lost the game, but the new player was a bright spot."
+  }
+ ],
+ "moreFromEmily": [
+  {
+   "kind": "linking",
+   "phrase": "meet the bar",
+   "soundsLike": "mee-the-bar",
+   "sentence": "D1",
+   "note": "The T in meet disappears before the."
+  },
+  {
+   "kind": "linking",
+   "phrase": "isn't much better",
+   "soundsLike": "izn-much-bedder",
+   "sentence": "D7",
+   "note": "isn't loses its T, and the TT in better becomes a soft D."
+  },
+  {
+   "kind": "linking",
+   "phrase": "twice as likely to",
+   "soundsLike": "twy-suz-likely-duh",
+   "sentence": "D9",
+   "note": "The S in twice joins as, and to becomes a weak duh."
+  },
+  {
+   "kind": "word",
+   "word": "fall short of",
+   "stress": "FALL SHORT of",
+   "meaning": "to not reach a level you need",
+   "example": "Our team fell short of the goal by two points.",
+   "sentence": "D3"
+  },
+  {
+   "kind": "word",
+   "word": "notable",
+   "stress": "NO-ta-ble",
+   "meaning": "worth noticing",
+   "example": "The new library is a notable change in our town.",
+   "sentence": "D8"
+  },
+  {
+   "kind": "word",
+   "word": "in the minority",
+   "stress": "in the mi-NOR-i-ty",
+   "meaning": "part of the smaller group",
+   "example": "People who walk to work are in the minority here.",
+   "sentence": "D6"
+  }
+ ]
+}
