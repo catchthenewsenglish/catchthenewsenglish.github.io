@@ -1,0 +1,737 @@
+{
+ "code": "CTNE 005",
+ "episode": 5,
+ "newsDate": "2026-11-03",
+ "publishDate": "2026-11-09",
+ "title": "The Midterms, Explained",
+ "field": "Politics & World",
+ "reporter": "Marcus Jordan",
+ "youtubeId": "DpFP-3AkuAs",
+ "thumbnail": "C005_thumb.jpg",
+ "worksheetUrl": "",
+ "sentences": [
+  {
+   "id": "D1",
+   "text": "Democrats are set to control both the House and the Senate after last week's midterm elections.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "set",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "to",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "both",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "after",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "midterm",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "elections",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Set to\" sounds like \"seh-tuh\": the two T sounds melt into one.",
+   "audio": "C005_D01.mp3"
+  },
+  {
+   "id": "D2",
+   "text": "Both chambers of Congress were under Republican control before the vote.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "Both",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 1,
+     "answer": "chambers",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "were",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "under",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "control",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "vote",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Chambers\" means the two parts of Congress. \"Under\" is quick and soft here.",
+   "audio": "C005_D02.mp3"
+  },
+  {
+   "id": "D3",
+   "text": "But what exactly are the midterms, and why do they matter?",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "But",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 1,
+     "answer": "what",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "exactly",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "are",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "midterms",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "and",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "why",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "they",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"What exactly are\" sounds like \"wuh-dig-ZAK-lee-er\". The T becomes a soft D.",
+   "audio": "C005_D03.mp3"
+  },
+  {
+   "id": "D4",
+   "text": "Last Tuesday, tens of millions of Americans headed to the polls to cast their ballots.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "Last",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 2,
+     "answer": "tens",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "millions",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "headed",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "polls",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "cast",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "ballots",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Headed to the\" runs together: \"hed-id-tuh-thuh\". \"Polls\" rhymes with \"holes\".",
+   "audio": "C005_D04.mp3"
+  },
+  {
+   "id": "D5",
+   "text": "It's called a midterm because it falls about halfway through a president's four-year term.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "It's",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "because",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "falls",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "halfway",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "through",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "four-year",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "term",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"It's\" is short for \"it is\". \"Halfway through a\" sounds like \"haf-way-throo-uh\".",
+   "audio": "C005_D05.mp3"
+  },
+  {
+   "id": "D6",
+   "text": "Every seat in the House was up for grabs, all 435 of them, since members serve two-year terms.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "seat",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "up",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "for",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "grabs",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "435",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "four hundred thirty-five",
+      "four hundred and thirty-five",
+      "435"
+     ]
+    },
+    {
+     "index": 12,
+     "answer": "them",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "members",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "serve",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Up for grabs\" sounds like \"uh-pfer-GRABS\". \"All 435 of them\" is said \"all four hundred thirty-five of 'em\".",
+   "audio": "C005_D06.mp3"
+  },
+  {
+   "id": "D7",
+   "text": "Senators, on the other hand, serve six-year terms, so only about a third of the Senate was on the ballot.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "other",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "hand",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "serve",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "terms",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "only",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "about",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "third",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 19,
+     "answer": "ballot",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"On the other hand\" flows as one unit: \"on-thee-UH-ther-hand\".",
+   "audio": "C005_D07.mp3"
+  },
+  {
+   "id": "D8",
+   "text": "Voters in 36 states also chose their governors, the top officials who lead each state.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "36",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "thirty-six",
+      "36"
+     ]
+    },
+    {
+     "index": 4,
+     "answer": "also",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "chose",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "governors",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "top",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "officials",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "lead",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Chose\" sounds like \"chohz\". \"Lead\" here rhymes with \"need\".",
+   "audio": "C005_D08.mp3"
+  },
+  {
+   "id": "D9",
+   "text": "Within a day, major news organizations projected that Democrats had flipped both chambers.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "day",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "major",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "news",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "projected",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "had",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "flipped",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Had flipped\" is fast: \"had\" almost disappears, so listen for \"d-FLIPT\".",
+   "audio": "C005_D09.mp3"
+  },
+  {
+   "id": "D10",
+   "text": "Control matters, because the majority party's leaders largely decide which bills come up for a vote.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "matters",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 2,
+     "answer": "because",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "majority",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "largely",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "decide",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "bills",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "come",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "up",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Come up for a\" sounds like \"kuh-mup-fer-uh\". The stress is on MA in \"majority\".",
+   "audio": "C005_D10.mp3"
+  },
+  {
+   "id": "D11",
+   "text": "Still, some races have yet to be called, and a few may not be settled until later this month.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "some",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 2,
+     "answer": "races",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "yet",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "to",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "called",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "few",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "settled",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 18,
+     "answer": "month",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Yet to be\" sounds like \"yeh-tuh-bee\". The T in \"yet\" is barely heard.",
+   "audio": "C005_D11.mp3"
+  },
+  {
+   "id": "D12",
+   "text": "Members of the new Congress are set to take office on January 3rd.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "new",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "take",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "office",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "on",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "3rd",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "third",
+      "3rd",
+      "three"
+     ]
+    }
+   ],
+   "soundNote": "\"Take office on\" links up: \"tay-KAW-fi-son\".",
+   "audio": "C005_D12.mp3"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "be set to",
+   "meaning": "to be expected or planned to happen",
+   "example": "The new bridge is set to open next spring."
+  },
+  {
+   "term": "head to the polls",
+   "meaning": "to go and vote in an election",
+   "example": "Voters in the city head to the polls again next month."
+  },
+  {
+   "term": "up for grabs",
+   "meaning": "available for anyone to win or take",
+   "example": "With the champion retired, the trophy is up for grabs."
+  },
+  {
+   "term": "have yet to",
+   "meaning": "has not happened so far, but is expected to",
+   "example": "The company has yet to announce a new CEO."
+  },
+  {
+   "term": "take office",
+   "meaning": "to officially start a job in government",
+   "example": "The new mayor will take office in January."
+  },
+  {
+   "term": "chamber",
+   "meaning": "one of the two parts of a country's lawmaking body",
+   "example": "The bill passed one chamber but not the other."
+  },
+  {
+   "term": "project",
+   "meaning": "to officially predict a result before every vote is counted",
+   "example": "Analysts projected a narrow win for the challenger."
+  },
+  {
+   "term": "majority",
+   "meaning": "more than half of a group",
+   "example": "A majority of the students voted for a longer lunch break."
+  },
+  {
+   "term": "settle",
+   "meaning": "to be finally decided",
+   "example": "The question won't be settled until the final report comes out."
+  },
+  {
+   "term": "midterms",
+   "meaning": "U.S. elections held halfway through a president's term",
+   "example": "Many new lawmakers won seats in the midterms."
+  },
+  {
+   "term": "ballot",
+   "meaning": "the paper or form you use to vote",
+   "example": "She filled in her ballot and dropped it in the box."
+  },
+  {
+   "term": "flip",
+   "meaning": "to win something the other side held before",
+   "example": "The challenger hopes to flip the district this year."
+  }
+ ],
+ "moreFromEmily": [
+  {
+   "kind": "linking",
+   "phrase": "set to control",
+   "soundsLike": "seh-tuh-control",
+   "sentence": "D1",
+   "note": "The T at the end of \"set\" and the T in \"to\" become one quick T."
+  },
+  {
+   "kind": "linking",
+   "phrase": "halfway through a",
+   "soundsLike": "haf-way-throo-uh",
+   "sentence": "D5",
+   "note": "The L in \"halfway\" is silent, and \"a\" is a tiny \"uh\"."
+  },
+  {
+   "kind": "linking",
+   "phrase": "yet to be called",
+   "soundsLike": "yeh-tuh-bee called",
+   "sentence": "D11",
+   "note": "The T in \"yet\" is swallowed by \"to\"."
+  },
+  {
+   "kind": "word",
+   "word": "chamber",
+   "stress": "CHAM-ber",
+   "meaning": "one of the two parts of a lawmaking body",
+   "example": "Both chambers must agree before a bill becomes law.",
+   "sentence": "D2"
+  },
+  {
+   "kind": "word",
+   "word": "project",
+   "stress": "pro-JECT (verb)",
+   "meaning": "to officially predict a result before all votes are counted",
+   "example": "The station projected the winner just after midnight.",
+   "sentence": "D9"
+  },
+  {
+   "kind": "word",
+   "word": "have yet to",
+   "stress": "have YET to",
+   "meaning": "has not happened so far, but is expected to",
+   "example": "Scientists have yet to explain the strange signal.",
+   "sentence": "D11"
+  }
+ ]
+}
