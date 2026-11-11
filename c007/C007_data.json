@@ -1,0 +1,767 @@
+{
+ "code": "CTNE 007",
+ "episode": 7,
+ "newsDate": "2026-11-05",
+ "publishDate": "2026-11-13",
+ "title": "Voyager 1, One Light-Day From Home",
+ "field": "Science & Tech",
+ "reporter": "Sarah Jenkins",
+ "youtubeId": "ODo0Bm2MpFI",
+ "thumbnail": "C007_thumb.jpg",
+ "worksheetUrl": "",
+ "sentences": [
+  {
+   "id": "D1",
+   "text": "Next week, a NASA spacecraft launched in 1977 is on track to go where no human-made object has ever been.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "week",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "spacecraft",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "launched",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "1977",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "nineteen seventy-seven"
+     ]
+    },
+    {
+     "index": 9,
+     "answer": "on",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "track",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "to",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 18,
+     "answer": "ever",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 19,
+     "answer": "been",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"On track to\" sounds like \"on-TRACK-tuh\" - the \"to\" gets very short.",
+   "audio": "C007_D01.mp3"
+  },
+  {
+   "id": "D2",
+   "text": "It's called Voyager 1, and it's been in flight for nearly half a century.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "called",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "it's",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "been",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "flight",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "nearly",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "half",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "century",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"It's been\" is quick: \"its-BIN.\" Listen for the short \"been.\"",
+   "audio": "C007_D02.mp3"
+  },
+  {
+   "id": "D3",
+   "text": "Soon, even light will need a full day to reach it.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "even",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "light",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "need",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "a",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "full",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "day",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "reach",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "it",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Need a\" sounds like \"NEE-duh,\" and \"reach it\" sounds like \"REE-chit.\"",
+   "audio": "C007_D03.mp3"
+  },
+  {
+   "id": "D4",
+   "text": "Voyager 1 blasted off from Florida in September 1977, on a mission to fly past Jupiter and Saturn.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "blasted",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "off",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "from",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "1977",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "nineteen seventy-seven"
+     ]
+    },
+    {
+     "index": 11,
+     "answer": "mission",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "fly",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "past",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Blasted off from\" runs together: \"BLAS-tuh-DOFF-frum.\"",
+   "audio": "C007_D04.mp3"
+  },
+  {
+   "id": "D5",
+   "text": "In 2012, it became the first spacecraft to enter interstellar space, the region beyond the sun's influence.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "2012",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "twenty twelve"
+     ]
+    },
+    {
+     "index": 3,
+     "answer": "became",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "enter",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "interstellar",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "region",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "beyond",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 16,
+     "answer": "influence",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Interstellar\" has four beats: in-ter-STEL-lar. \"Influence\" is stressed on IN.",
+   "audio": "C007_D05.mp3"
+  },
+  {
+   "id": "D6",
+   "text": "Light travels about 16 billion miles in one day, a distance scientists call a light-day.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "travels",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "about",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "16",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "sixteen"
+     ]
+    },
+    {
+     "index": 4,
+     "answer": "billion",
+     "type": "number",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "miles",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "distance",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "scientists",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "light-day",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Travels about\" blends into \"TRAV-uh-luh-BOUT.\"",
+   "audio": "C007_D06.mp3"
+  },
+  {
+   "id": "D7",
+   "text": "NASA expects Voyager 1 to reach that milestone in the early hours of Wednesday, November 18.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "expects",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "reach",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "that",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "milestone",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "early",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "hours",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "18",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "eighteen",
+      "eighteenth"
+     ]
+    }
+   ],
+   "soundNote": "\"In the early hours\" is said fast: \"in-thee-ER-lee OW-erz.\"",
+   "audio": "C007_D07.mp3"
+  },
+  {
+   "id": "D8",
+   "text": "Once it gets there, a command from mission control will take a whole day to arrive, and the reply another.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "gets",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "there",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "command",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "control",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "take",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "a",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 19,
+     "answer": "another",
+     "type": "function",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Take a\" sounds like \"TAY-kuh.\" \"Gets there\" loses most of the \"t.\"",
+   "audio": "C007_D08.mp3"
+  },
+  {
+   "id": "D9",
+   "text": "The spacecraft runs on a nuclear power source that loses about four watts every year.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "runs",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "on",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "a",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "nuclear",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "loses",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "four",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "4"
+     ]
+    },
+    {
+     "index": 12,
+     "answer": "watts",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Runs on a\" sounds like \"RUN-zah-nuh.\"",
+   "audio": "C007_D09.mp3"
+  },
+  {
+   "id": "D10",
+   "text": "Over the years, most of its 10 science instruments have been shut off, and only two are still running.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "years",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "10",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "ten"
+     ]
+    },
+    {
+     "index": 8,
+     "answer": "instruments",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "shut",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "off",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "two",
+     "type": "number",
+     "inVideo": true,
+     "accept": [
+      "2"
+     ]
+    },
+    {
+     "index": 17,
+     "answer": "still",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Shut off\" links: \"shuh-DOFF.\" Listen for the small word \"two.\"",
+   "audio": "C007_D10.mp3"
+  },
+  {
+   "id": "D11",
+   "text": "NASA says a power-saving fix in September should let the team put off shutting down another instrument.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "power-saving",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "fix",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "team",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "put",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "off",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "shutting",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "another",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Put off\" links: \"puh-DOFF.\" The stress is on OFF.",
+   "audio": "C007_D11.mp3"
+  },
+  {
+   "id": "D12",
+   "text": "Its power supply is dwindling, but for now, Voyager 1 is still sending data back home.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "supply",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "dwindling",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "but",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "for",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "now",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "sending",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "data",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"But for now\" sounds like \"buh-fer-NOW\" - the \"t\" almost disappears.",
+   "audio": "C007_D12.mp3"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "on track to",
+   "meaning": "likely to reach a goal if things keep going the same way",
+   "example": "Our team is on track to finish the project by Friday."
+  },
+  {
+   "term": "blast off",
+   "meaning": "(of a rocket) to leave the ground and go up into the sky",
+   "example": "The crowd cheered as the rocket blasted off."
+  },
+  {
+   "term": "in the early hours (of)",
+   "meaning": "very early in the morning, while it is still dark",
+   "example": "The storm hit the town in the early hours of Sunday."
+  },
+  {
+   "term": "put off",
+   "meaning": "to decide to do something at a later time",
+   "example": "She put off her trip until the spring."
+  },
+  {
+   "term": "milestone",
+   "meaning": "an important point or stage in a long process",
+   "example": "Her first paycheck was a big milestone."
+  },
+  {
+   "term": "command",
+   "meaning": "an order or instruction sent to a machine",
+   "example": "The robot stopped as soon as it got the command."
+  },
+  {
+   "term": "instruments",
+   "meaning": "tools that scientists use to measure things",
+   "example": "The weather station has instruments for wind and rain."
+  },
+  {
+   "term": "spacecraft",
+   "meaning": "a vehicle built to travel in space",
+   "example": "The spacecraft took six months to reach Mars."
+  },
+  {
+   "term": "interstellar space",
+   "meaning": "the area between stars, beyond the sun's reach",
+   "example": "No person has ever traveled to interstellar space."
+  },
+  {
+   "term": "light-day",
+   "meaning": "the distance that light travels in one full day",
+   "example": "Even our fastest probes are about one light-day away at most."
+  },
+  {
+   "term": "dwindling",
+   "meaning": "slowly becoming smaller in number or amount",
+   "example": "With dwindling savings, they decided to cook at home more."
+  }
+ ],
+ "moreFromEmily": [
+  {
+   "kind": "linking",
+   "phrase": "on track to",
+   "soundsLike": "on-TRACK-tuh",
+   "sentence": "D1",
+   "note": "The \"to\" shrinks to a quick \"tuh\" and sticks to \"track.\""
+  },
+  {
+   "kind": "linking",
+   "phrase": "it's been in flight",
+   "soundsLike": "its-BIN-in-FLIGHT",
+   "sentence": "D2",
+   "note": "\"Been\" sounds like \"bin\" and joins \"in.\""
+  },
+  {
+   "kind": "linking",
+   "phrase": "runs on a",
+   "soundsLike": "RUN-zah-nuh",
+   "sentence": "D9",
+   "note": "The \"s\" in \"runs\" moves to \"on,\" and \"a\" becomes a tiny \"uh.\""
+  },
+  {
+   "kind": "word",
+   "word": "interstellar",
+   "stress": "in-ter-STEL-lar",
+   "meaning": "between the stars",
+   "example": "The film is about an interstellar journey.",
+   "sentence": "D5"
+  },
+  {
+   "kind": "word",
+   "word": "in the early hours",
+   "stress": "in the ER-ly HOURS",
+   "meaning": "very early in the morning, while it is still dark",
+   "example": "The baby woke up in the early hours.",
+   "sentence": "D7"
+  },
+  {
+   "kind": "word",
+   "word": "milestone",
+   "stress": "MILE-stone",
+   "meaning": "an important point in a long journey or process",
+   "example": "Graduating was a milestone for the whole family.",
+   "sentence": "D7"
+  }
+ ]
+}
