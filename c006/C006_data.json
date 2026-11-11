@@ -1,0 +1,769 @@
+{
+ "code": "CTNE 006",
+ "episode": 6,
+ "newsDate": "2026-11-05",
+ "publishDate": "2026-11-11",
+ "title": "NYC's 76-Foot Holiday Tree",
+ "field": "Society & Life",
+ "reporter": "Sofia Park",
+ "youtubeId": "whDS4_Exjds",
+ "thumbnail": "C006_thumb.jpg",
+ "worksheetUrl": "",
+ "sentences": [
+  {
+   "id": "D1",
+   "text": "This year's Rockefeller Center Christmas tree has been picked, and it's already been cut down in upstate New York.",
+   "blanks": [
+    {
+     "index": 6,
+     "answer": "has",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "been",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "picked",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "it's",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "already",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "cut",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "down",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 16,
+     "answer": "upstate",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"It's already been\" runs together, and \"been\" sounds like a quick \"bin.\"",
+   "audio": "C006_D01.mp3"
+  },
+  {
+   "id": "D2",
+   "text": "It's an evergreen called a Norway spruce, about 75 years old and 76 feet tall.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "It's",
+     "type": "contraction",
+     "inVideo": false
+    },
+    {
+     "index": 2,
+     "answer": "evergreen",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "called",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "spruce",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "about",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "75",
+     "type": "number",
+     "inVideo": true,
+     "accept": [
+      "seventy-five"
+     ]
+    },
+    {
+     "index": 12,
+     "answer": "76",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "seventy-six"
+     ]
+    },
+    {
+     "index": 14,
+     "answer": "tall",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"It's an\" links into \"it-san.\" Numbers come fast: seventy-five, seventy-six.",
+   "audio": "C006_D02.mp3"
+  },
+  {
+   "id": "D3",
+   "text": "The holiday tree lighting is now just weeks away.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "holiday",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "lighting",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "now",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "just",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "weeks",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "away",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Weeks away\" links: the \"s\" slides into \"away,\" like \"week-saway.\"",
+   "audio": "C006_D03.mp3"
+  },
+  {
+   "id": "D4",
+   "text": "In the small town of West Edmeston, crews brought the giant tree down from a family's yard last Thursday.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "town",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "crews",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "brought",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "down",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "from",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "a",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "yard",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 17,
+     "answer": "last",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Down from a\" blends together, and \"a\" is almost silent: \"dow-n-frum-uh.\"",
+   "audio": "C006_D04.mp3"
+  },
+  {
+   "id": "D5",
+   "text": "Then it was loaded onto a truck for the roughly 200-mile trip to Manhattan.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "Then",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "loaded",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "onto",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "a",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "truck",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "roughly",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "trip",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Loaded onto a truck\" sounds like one long word: \"loh-dih-DAWN-tuh-uh truck.\"",
+   "audio": "C006_D05.mp3"
+  },
+  {
+   "id": "D6",
+   "text": "Over the coming weeks, workers will string more than 50,000 colorful LED lights onto its branches.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "coming",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "workers",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "string",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "more",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "than",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "colorful",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "onto",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "branches",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Onto its\" is quick, and \"string\" is stressed. Listen for \"more than\" said as \"mor-thn.\"",
+   "audio": "C006_D06.mp3"
+  },
+  {
+   "id": "D7",
+   "text": "Organizers say the official lighting is set for December 2, during a live television special.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "Organizers",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "official",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "set",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "for",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "during",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "live",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "television",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "special",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Set for\" sounds like \"set-fer,\" with a very short \"for.\"",
+   "audio": "C006_D07.mp3"
+  },
+  {
+   "id": "D8",
+   "text": "After that, it'll stay lit until January 9.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "After",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 2,
+     "answer": "it'll",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "stay",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "lit",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "until",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "9",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "ninth",
+      "nine"
+     ]
+    }
+   ],
+   "soundNote": "\"It'll\" sounds like \"id-l,\" and \"stay lit\" follows right after it.",
+   "audio": "C006_D08.mp3"
+  },
+  {
+   "id": "D9",
+   "text": "The tradition dates back to 1931, when workers building the center put up a much smaller tree of their own.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "dates",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "back",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "to",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "building",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "put",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "up",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "a",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "smaller",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 19,
+     "answer": "own",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Put up a\" sounds like \"puh-duh-puh.\" The \"t\" turns into a soft \"d.\"",
+   "audio": "C006_D09.mp3"
+  },
+  {
+   "id": "D10",
+   "text": "That tree was decorated with paper and cranberries, a far cry from the giant crystal star on top today.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "decorated",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "paper",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "cranberries",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "far",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "cry",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "from",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "crystal",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 17,
+     "answer": "top",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"A far cry from\" is said as one phrase, with the stress on FAR and CRY.",
+   "audio": "C006_D10.mp3"
+  },
+  {
+   "id": "D11",
+   "text": "Once the season wraps up, the spruce will be turned into lumber and donated to help build homes.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "wraps",
+     "type": "linking",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "up",
+     "type": "linking",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "turned",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "into",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "lumber",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "donated",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "help",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 17,
+     "answer": "homes",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Turned into\" sounds like \"tern-din-tuh,\" and \"wraps up\" sounds like \"rap-sup.\"",
+   "audio": "C006_D11.mp3"
+  },
+  {
+   "id": "D12",
+   "text": "For many New Yorkers, the lighting marks the unofficial kickoff of the holiday season.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "many",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "lighting",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "marks",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "unofficial",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "kickoff",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "season",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Marks the\" is quick, and the stress in \"unofficial\" is on FISH.",
+   "audio": "C006_D12.mp3"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "weeks away",
+   "meaning": "going to happen in a few weeks",
+   "example": "Final exams are just weeks away, so the library is busy."
+  },
+  {
+   "term": "over the coming weeks",
+   "meaning": "during the next few weeks",
+   "example": "Over the coming weeks, the city will repair the old bridge."
+  },
+  {
+   "term": "date back to",
+   "meaning": "to have started at a time in the past",
+   "example": "This family recipe dates back to my great-grandmother."
+  },
+  {
+   "term": "wrap up",
+   "meaning": "to come to an end; to finish",
+   "example": "The meeting wrapped up early, so we went for lunch."
+  },
+  {
+   "term": "evergreen",
+   "meaning": "a tree that keeps its green leaves or needles all year",
+   "example": "Pine trees are evergreens, so they stay green in winter."
+  },
+  {
+   "term": "string (lights)",
+   "meaning": "to hang a line of lights or objects on something",
+   "example": "We strung paper lanterns across the backyard for the party."
+  },
+  {
+   "term": "organizers",
+   "meaning": "the people who plan and run an event",
+   "example": "The organizers moved the concert inside because of rain."
+  },
+  {
+   "term": "kickoff",
+   "meaning": "the start of an event or a season",
+   "example": "The parade is the kickoff to the town's summer festival."
+  },
+  {
+   "term": "spruce",
+   "meaning": "a tall tree with short, sharp needles and cones",
+   "example": "A spruce grows well in cold places with lots of snow."
+  },
+  {
+   "term": "lumber",
+   "meaning": "wood that has been cut into boards for building",
+   "example": "They bought lumber to build a new fence."
+  },
+  {
+   "term": "tree lighting",
+   "meaning": "an event where a holiday tree's lights are turned on for the first time",
+   "example": "Our town's tree lighting always draws a big crowd."
+  },
+  {
+   "term": "a far cry from",
+   "meaning": "very different from",
+   "example": "My first apartment was a far cry from the house I live in now."
+  }
+ ],
+ "moreFromEmily": [
+  {
+   "kind": "linking",
+   "phrase": "it's already been",
+   "soundsLike": "its-awl-RED-ee-bin",
+   "sentence": "D1",
+   "note": "\"It's\" means \"it has\" here. It's very short, and \"been\" becomes a quick \"bin.\""
+  },
+  {
+   "kind": "linking",
+   "phrase": "down from a",
+   "soundsLike": "dow-n-frum-uh",
+   "sentence": "D4",
+   "note": "The \"n\" in \"down\" slides into \"from,\" and \"a\" is almost silent."
+  },
+  {
+   "kind": "linking",
+   "phrase": "it'll stay lit",
+   "soundsLike": "ih-dl stay lit",
+   "sentence": "D8",
+   "note": "The \"t\" in \"it'll\" sounds like a soft \"d,\" so you mostly hear \"id-l.\""
+  },
+  {
+   "kind": "word",
+   "word": "spruce",
+   "stress": "SPRUCE",
+   "meaning": "a tall evergreen tree with short, sharp needles",
+   "example": "The cabin was surrounded by tall spruce trees.",
+   "sentence": "D2"
+  },
+  {
+   "kind": "word",
+   "word": "kickoff",
+   "stress": "KICK-off",
+   "meaning": "the start of an event or season",
+   "example": "The first snow felt like the kickoff of winter.",
+   "sentence": "D12"
+  },
+  {
+   "kind": "word",
+   "word": "string (lights)",
+   "stress": "STRING",
+   "meaning": "to hang lights in a long line",
+   "example": "She strung tiny lights along the window frame.",
+   "sentence": "D6"
+  }
+ ]
+}
