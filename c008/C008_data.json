@@ -1,0 +1,740 @@
+{
+ "code": "CTNE 008",
+ "episode": 8,
+ "newsDate": "2026-11-05",
+ "publishDate": "2026-11-16",
+ "title": "After the Flood: Two Towns Clean Up",
+ "field": "Environment & Weather",
+ "reporter": "Ben Carter",
+ "youtubeId": "ZbWDmz10CS4",
+ "thumbnail": "C008_thumb.jpg",
+ "worksheetUrl": "",
+ "sentences": [
+  {
+   "id": "D1",
+   "text": "Two mountain towns on the Georgia-Tennessee border are still cleaning up after flash flooding earlier this month.",
+   "blanks": [
+    {
+     "index": 6,
+     "answer": "border",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "still",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "cleaning",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "up",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "flash",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "flooding",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "earlier",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Cleaning up\" is said as one smooth phrase. The stress is on CLEAN.",
+   "audio": "C008_D01.mp3"
+  },
+  {
+   "id": "D2",
+   "text": "Torrential rain fell overnight on November 4, as much as 11 inches in a matter of hours.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "Torrential",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "overnight",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "11",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "eleven"
+     ]
+    },
+    {
+     "index": 11,
+     "answer": "inches",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "matter",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "of",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "hours",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"November 4\" is read as \"November fourth,\" and \"11\" as \"eleven.\" \"Matter of\" is quick and light.",
+   "audio": "C008_D02.mp3"
+  },
+  {
+   "id": "D3",
+   "text": "The Ocoee River rose more than 15 feet, a record high.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "rose",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "15",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "fifteen"
+     ]
+    },
+    {
+     "index": 7,
+     "answer": "feet",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "record",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "high",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Ocoee\" sounds like \"oh-KOH-ee.\" \"15\" is \"fifteen\" - listen for the long \"teen.\"",
+   "audio": "C008_D03.mp3"
+  },
+  {
+   "id": "D4",
+   "text": "In the middle of the night, residents of McCaysville were ordered to leave their homes.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "middle",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "of",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "night",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "residents",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "ordered",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "leave",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "homes",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "In this clip, \"middle of the night\" is read clearly, word by word. In fast conversation it can sound like \"mid-luh-thuh-night.\"",
+   "audio": "C008_D04.mp3"
+  },
+  {
+   "id": "D5",
+   "text": "Across the two states, crews carried out more than 160 rescues.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "Across",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "crews",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "carried",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "out",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "160",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "one hundred sixty",
+      "a hundred sixty",
+      "one hundred and sixty"
+     ]
+    },
+    {
+     "index": 10,
+     "answer": "rescues",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"160\" is read as \"one hundred sixty.\" \"Carried out\" is read clearly here.",
+   "audio": "C008_D05.mp3"
+  },
+  {
+   "id": "D6",
+   "text": "The river crested, or peaked, around 6 a.m. at just over 18 feet, breaking a record set in 1990.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "crested",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "peaked",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "around",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "18",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "eighteen"
+     ]
+    },
+    {
+     "index": 13,
+     "answer": "breaking",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 15,
+     "answer": "record",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 16,
+     "answer": "set",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 17,
+     "answer": "in",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"6 a.m.\" sounds like \"six-ay-em.\" \"1990\" is \"nineteen ninety.\" There is a small pause around \"or peaked.\"",
+   "audio": "C008_D06.mp3"
+  },
+  {
+   "id": "D7",
+   "text": "Forecasters say storms stalled briefly over the mountains, and steep terrain funneled the water into creeks and the river.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "Forecasters",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "stalled",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "briefly",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "steep",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "terrain",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "funneled",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "into",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "creeks",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "Listen for the past endings: \"stalled\" and \"funneled\" both end in a soft \"d\" sound.",
+   "audio": "C008_D07.mp3"
+  },
+  {
+   "id": "D8",
+   "text": "Georgia's governor declared a state of emergency in four counties, and the bridges linking the two towns were closed.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "governor",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 2,
+     "answer": "declared",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "state",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "of",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "emergency",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "four",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "4"
+     ]
+    },
+    {
+     "index": 9,
+     "answer": "counties",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 18,
+     "answer": "closed",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"State of\" sounds like \"stay-duv\" in this clip. The T goes soft and \"of\" hooks on.",
+   "audio": "C008_D08.mp3"
+  },
+  {
+   "id": "D9",
+   "text": "When the water receded, dozens of homes and downtown shops were left coated in mud.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "receded",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "dozens",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "downtown",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "left",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "coated",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "in",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "mud",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Coated in mud\" runs together. It sounds like \"KOH-dih-din mud.\"",
+   "audio": "C008_D09.mp3"
+  },
+  {
+   "id": "D10",
+   "text": "In the wake of the flood, volunteers have been helping with the cleanup in both towns.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "wake",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "of",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "flood",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "volunteers",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "helping",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "cleanup",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "both",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "The K in \"wake\" slides into \"of.\" It sounds like \"WAY-kuv.\"",
+   "audio": "C008_D10.mp3"
+  },
+  {
+   "id": "D11",
+   "text": "As of late last week, one town remained under a boil-water advisory, and federal teams had begun surveying the damage.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "late",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "remained",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "under",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "advisory",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "federal",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 16,
+     "answer": "begun",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 17,
+     "answer": "surveying",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 19,
+     "answer": "damage",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Boil-water advisory\" has the main stress on BOIL and on VI: ad-VI-so-ry.",
+   "audio": "C008_D11.mp3"
+  },
+  {
+   "id": "D12",
+   "text": "The river is back within its banks, but for both towns, the cleanup is far from over.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "back",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "within",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "banks",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "far",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "from",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "over",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "In this clip, \"far from over\" is read clearly. The strongest word is \"far.\"",
+   "audio": "C008_D12.mp3"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "flash flooding",
+   "meaning": "sudden flooding that happens very quickly after heavy rain",
+   "example": "Flash flooding closed three roads in less than an hour."
+  },
+  {
+   "term": "torrential",
+   "meaning": "falling very fast and in huge amounts (about rain)",
+   "example": "We drove home slowly through torrential rain."
+  },
+  {
+   "term": "in a matter of hours",
+   "meaning": "in only a few hours; surprisingly fast",
+   "example": "The tickets sold out in a matter of hours."
+  },
+  {
+   "term": "carry out",
+   "meaning": "to do a planned job or task",
+   "example": "Doctors carried out the operation on Monday."
+  },
+  {
+   "term": "crest",
+   "meaning": "(of a river) to reach its highest level before going down",
+   "example": "The river is expected to crest on Friday night."
+  },
+  {
+   "term": "stall",
+   "meaning": "(of a storm) to stop moving and stay over one place",
+   "example": "The storm stalled over the coast for two days."
+  },
+  {
+   "term": "funnel",
+   "meaning": "to push something through a narrow space",
+   "example": "The fence funnels fans toward the main gate."
+  },
+  {
+   "term": "declare a state of emergency",
+   "meaning": "to officially announce a serious situation that needs special action",
+   "example": "The mayor declared a state of emergency after the storm."
+  },
+  {
+   "term": "recede",
+   "meaning": "(of water) to slowly move back or go down",
+   "example": "We could not go home until the water receded."
+  },
+  {
+   "term": "in the wake of",
+   "meaning": "after something serious, and because of it",
+   "example": "Prices rose in the wake of the drought."
+  },
+  {
+   "term": "boil-water advisory",
+   "meaning": "an official warning to boil tap water before drinking it",
+   "example": "A broken pipe led to a boil-water advisory for the whole city."
+  },
+  {
+   "term": "far from over",
+   "meaning": "not close to finished; with a lot still to do",
+   "example": "The game is far from over - there are twenty minutes left."
+  }
+ ],
+ "moreFromEmily": [
+  {
+   "kind": "linking",
+   "phrase": "middle of the night",
+   "soundsLike": "mid-luh-thuh-night",
+   "sentence": "D4",
+   "note": "In fast conversation these words often run together. In this news clip, the reporter reads each word clearly."
+  },
+  {
+   "kind": "linking",
+   "phrase": "carried out",
+   "soundsLike": "KA-ree-dout",
+   "sentence": "D5",
+   "note": "In casual speech the D can slide into \"out.\" In this news clip, the two words are read clearly."
+  },
+  {
+   "kind": "linking",
+   "phrase": "far from over",
+   "soundsLike": "far-fruh-MO-ver",
+   "sentence": "D12",
+   "note": "In casual speech \"from\" gets short and joins \"over.\" In this news clip, the phrase is read clearly."
+  },
+  {
+   "kind": "word",
+   "word": "funnel",
+   "stress": "FUN-nel",
+   "meaning": "to push something through a narrow space",
+   "example": "Staff funneled the crowd through one door.",
+   "sentence": "D7"
+  },
+  {
+   "kind": "word",
+   "word": "crest",
+   "stress": "CREST",
+   "meaning": "to reach the highest level before going down",
+   "example": "Officials expect the river to crest tomorrow morning.",
+   "sentence": "D6"
+  },
+  {
+   "kind": "word",
+   "word": "stall",
+   "stress": "STALL",
+   "meaning": "to stop moving and stay in one place",
+   "example": "The rain band stalled over the valley all night.",
+   "sentence": "D7"
+  }
+ ]
+}
