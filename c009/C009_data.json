@@ -1,0 +1,734 @@
+{
+ "code": "CTNE 009",
+ "episode": 9,
+ "newsDate": "2026-11-16",
+ "publishDate": "2026-11-18",
+ "title": "The Pope's South American Homecoming",
+ "field": "Politics & World",
+ "reporter": "Marcus Jordan",
+ "youtubeId": "giyB56MGDns",
+ "thumbnail": "C009_thumb.jpg",
+ "worksheetUrl": "",
+ "sentences": [
+  {
+   "id": "D1",
+   "text": "Pope Leo XIV has wrapped up a 12-day tour of South America, ending with an outdoor Mass in Peru.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "has",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "wrapped",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "up",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "of",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "ending",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "with",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 15,
+     "answer": "outdoor",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Wrapped up a\" runs together: \"rap-tuh-puh.\" The -ed sounds like a T.",
+   "audio": "C009_D01.mp3"
+  },
+  {
+   "id": "D2",
+   "text": "The pope, also called the pontiff, visited Uruguay, Argentina and Peru, where he once lived and worked.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "also",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "called",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "pontiff",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "visited",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "where",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "once",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "worked",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Called the\" is quick, and the D in \"called\" is very soft.",
+   "audio": "C009_D02.mp3"
+  },
+  {
+   "id": "D3",
+   "text": "More than a million people turned out for Monday's final Mass in Lima.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "More",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 1,
+     "answer": "than",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "million",
+     "type": "number",
+     "inVideo": true,
+     "accept": [
+      "1,000,000"
+     ]
+    },
+    {
+     "index": 5,
+     "answer": "turned",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "out",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "for",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "final",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Turned out\" links: \"turn-dout.\" \"For\" is short and weak.",
+   "audio": "C009_D03.mp3"
+  },
+  {
+   "id": "D4",
+   "text": "A huge crowd braved the heat to fill Las Palmas Air Base in Lima.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "huge",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "crowd",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "braved",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "the",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "heat",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "to",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "fill",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Braved the heat\" has a strong stress on \"braved\" and \"heat.\" \"To\" is very short.",
+   "audio": "C009_D04.mp3"
+  },
+  {
+   "id": "D5",
+   "text": "That afternoon, his plane took off for Rome, closing a journey that began on November 6.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "plane",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "took",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "off",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "for",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "closing",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "journey",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "began",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Took off\" joins up, like \"too-koff,\" and \"for\" is short and weak.",
+   "audio": "C009_D05.mp3"
+  },
+  {
+   "id": "D6",
+   "text": "Born in Chicago, Leo spent roughly two decades in Peru as a missionary and later a bishop.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "Born",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "spent",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "roughly",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "decades",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "missionary",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "later",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "bishop",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"As a\" sounds like \"azuh,\" and \"and later a\" is quick and soft.",
+   "audio": "C009_D06.mp3"
+  },
+  {
+   "id": "D7",
+   "text": "He's also a Peruvian citizen, and in his farewell remarks, he said he had felt at home.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "He's",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 1,
+     "answer": "also",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "citizen",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "farewell",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "remarks",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "felt",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "home",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Felt at home\" runs together into one quick sound: \"FEL-tid-home.\"",
+   "audio": "C009_D07.mp3"
+  },
+  {
+   "id": "D8",
+   "text": "In Uruguay, he joined thousands of young people for a prayer vigil at Montevideo's Centenario Stadium.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "joined",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "thousands",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "of",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "people",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "for",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "prayer",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "vigil",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "In this report, \"thousands of young\" is read clearly, word by word. In fast speech, \"of\" often shrinks to \"uh.\"",
+   "audio": "C009_D08.mp3"
+  },
+  {
+   "id": "D9",
+   "text": "In Buenos Aires, he paid tribute to his predecessor, Pope Francis, praying at a memorial in the city's cathedral.",
+   "blanks": [
+    {
+     "index": 4,
+     "answer": "paid",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "tribute",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "his",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "predecessor",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "praying",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "memorial",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 18,
+     "answer": "cathedral",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "The D in \"paid\" almost disappears before \"tribute,\" and \"to\" becomes a quick \"tuh.\"",
+   "audio": "C009_D09.mp3"
+  },
+  {
+   "id": "D10",
+   "text": "Two days later, an estimated two million pilgrims gathered outside the basilica in the city of Luján.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "days",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "estimated",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "two",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "2"
+     ]
+    },
+    {
+     "index": 7,
+     "answer": "pilgrims",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "gathered",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "outside",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "basilica",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"An estimated\" links: \"uh-NES-tih-may-tid.\" \"Of\" before the city name is very short.",
+   "audio": "C009_D10.mp3"
+  },
+  {
+   "id": "D11",
+   "text": "In Peru, he returned to the northern city where he was once bishop, then visited Cusco and the Amazon.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "returned",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "northern",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "where",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "was",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "once",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "then",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "visited",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Where he was once\" is quick. The H in \"he\" is very soft, so it can sound like \"where-ee.\"",
+   "audio": "C009_D11.mp3"
+  },
+  {
+   "id": "D12",
+   "text": "At that final Mass, the pope said the journey was ending, but the mission would carry on.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "final",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "was",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "ending",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "mission",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "would",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 15,
+     "answer": "carry",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "on",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "In this report, \"would carry on\" is read clearly. In fast speech, \"carry on\" often sounds like \"carry-yon.\"",
+   "audio": "C009_D12.mp3"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "wrap up",
+   "meaning": "to finish something, like a trip, a meeting or a job",
+   "example": "The two leaders wrapped up their talks on Friday."
+  },
+  {
+   "term": "turn out (for)",
+   "meaning": "to come to an event, usually in large numbers",
+   "example": "Thousands of fans turned out for the victory parade."
+  },
+  {
+   "term": "pay tribute to",
+   "meaning": "to show respect for someone in public",
+   "example": "The players paid tribute to their old coach before the game."
+  },
+  {
+   "term": "carry on",
+   "meaning": "to continue, even after a change or a problem",
+   "example": "The search will carry on through the weekend."
+  },
+  {
+   "term": "brave (the heat)",
+   "meaning": "to go out and face bad weather, even though it's hard",
+   "example": "Shoppers braved the cold to line up before sunrise."
+  },
+  {
+   "term": "farewell",
+   "meaning": "a goodbye, often a formal or public one",
+   "example": "The retiring mayor gave a short farewell speech."
+  },
+  {
+   "term": "predecessor",
+   "meaning": "the person who had the job before the current one",
+   "example": "The new CEO kept many of her predecessor's plans."
+  },
+  {
+   "term": "estimated",
+   "meaning": "not counted exactly; a careful guess at a number",
+   "example": "An estimated 5,000 people watched the fireworks."
+  },
+  {
+   "term": "vigil",
+   "meaning": "a quiet gathering, often in the evening, to pray or remember",
+   "example": "Neighbors held a candlelight vigil in the town park."
+  },
+  {
+   "term": "pontiff",
+   "meaning": "another word for the pope",
+   "example": "The pontiff greeted visitors from his window."
+  },
+  {
+   "term": "Mass",
+   "meaning": "the main religious service of the Catholic Church",
+   "example": "The family goes to Mass every Sunday morning."
+  },
+  {
+   "term": "pilgrims",
+   "meaning": "people who travel to a place that is holy to them",
+   "example": "Pilgrims walked for days to reach the old church."
+  },
+  {
+   "term": "missionary",
+   "meaning": "a person sent to another place to do religious work",
+   "example": "She worked as a missionary in a small mountain village."
+  }
+ ],
+ "moreFromEmily": [
+  {
+   "kind": "linking",
+   "phrase": "thousands of young",
+   "soundsLike": "thousand-zuh young",
+   "sentence": "D8",
+   "note": "In this report, Marcus reads these words clearly, one by one. In fast, everyday speech, \"of\" often shrinks to \"uh.\""
+  },
+  {
+   "kind": "linking",
+   "phrase": "where he was once",
+   "soundsLike": "where-ee wuz once",
+   "sentence": "D11",
+   "note": "The H in \"he\" is very soft after \"where,\" and \"was\" is short and weak."
+  },
+  {
+   "kind": "linking",
+   "phrase": "would carry on",
+   "soundsLike": "wood carry-yon",
+   "sentence": "D12",
+   "note": "In this report, the words are read clearly. In fast speech, \"carry\" and \"on\" often join with a small Y sound."
+  },
+  {
+   "kind": "word",
+   "word": "predecessor",
+   "stress": "PRED-e-ces-sor",
+   "meaning": "the person who had the job before the current one",
+   "example": "The new CEO kept many of her predecessor's plans.",
+   "sentence": "D9"
+  },
+  {
+   "kind": "word",
+   "word": "vigil",
+   "stress": "VIJ-il",
+   "meaning": "a quiet gathering, often in the evening, to pray or remember",
+   "example": "Neighbors held a candlelight vigil in the town park.",
+   "sentence": "D8"
+  },
+  {
+   "kind": "word",
+   "word": "pontiff",
+   "stress": "PON-tiff",
+   "meaning": "another word for the pope",
+   "example": "The pontiff greeted visitors from his window.",
+   "sentence": "D2"
+  }
+ ]
+}
