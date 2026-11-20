@@ -1,0 +1,835 @@
+{
+ "code": "CTNE 010",
+ "episode": 10,
+ "newsDate": "2026-11-17",
+ "publishDate": "2026-11-20",
+ "title": "A Week of Outages",
+ "field": "Economy & Business",
+ "reporter": "David Chen",
+ "youtubeId": "CUBZkCtBfm8",
+ "thumbnail": "C010_thumb.jpg",
+ "worksheetUrl": "",
+ "sentences": [
+  {
+   "id": "D1",
+   "text": "A string of technology outages has disrupted email, air travel and banking across the United States.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "string",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "of",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "technology",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "outages",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "disrupted",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "air",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "travel",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "banking",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"String of\" joins up: the G is soft and \"of\" is a quick \"uv.\" The stress is on OUT in \"outages.\"",
+   "audio": "C010_D01.mp3"
+  },
+  {
+   "id": "D2",
+   "text": "It began on November 12, when Microsoft's email service went down worldwide, and the trouble lasted into the next day.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "began",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "12",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "twelve",
+      "12th",
+      "twelfth"
+     ]
+    },
+    {
+     "index": 8,
+     "answer": "service",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "went",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "down",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "trouble",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 15,
+     "answer": "lasted",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 18,
+     "answer": "next",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Went down\" has two strong beats. \"Lasted into\" links: \"las-ti-din-to.\"",
+   "audio": "C010_D02.mp3"
+  },
+  {
+   "id": "D3",
+   "text": "A day later, the FAA, which runs air traffic control, halted takeoffs nationwide.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "day",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 2,
+     "answer": "later",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "runs",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "traffic",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "control",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "halted",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "takeoffs",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"FAA\" is said letter by letter. \"Halted takeoffs\" has clear stress on HALT and TAKE.",
+   "audio": "C010_D03.mp3"
+  },
+  {
+   "id": "D4",
+   "text": "That Friday afternoon, planes sat idle at airports nationwide under an order called a ground stop.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "afternoon",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "sat",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "idle",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "at",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "under",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "order",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "called",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "ground",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Sat idle\" — the stress is on I in \"idle.\" \"Called a\" sounds like \"call-duh.\"",
+   "audio": "C010_D04.mp3"
+  },
+  {
+   "id": "D5",
+   "text": "Departures were halted for more than four hours, while thousands of planes already in the air landed safely.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "halted",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "four",
+     "type": "number",
+     "inVideo": true,
+     "accept": [
+      "4"
+     ]
+    },
+    {
+     "index": 7,
+     "answer": "hours",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "thousands",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "already",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "air",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 16,
+     "answer": "landed",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 17,
+     "answer": "safely",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"More than\" is quick: \"more-thun.\" \"In the air\" links smoothly: \"in-thee-air.\"",
+   "audio": "C010_D05.mp3"
+  },
+  {
+   "id": "D6",
+   "text": "The FAA says a flood of data overwhelmed its aging communications network, so some radio and radar links became unstable.",
+   "blanks": [
+    {
+     "index": 4,
+     "answer": "flood",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "of",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "data",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "overwhelmed",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "aging",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "network",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 17,
+     "answer": "links",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 19,
+     "answer": "unstable",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"A flood of data\" — \"of\" is weak, like \"uh.\" The stress in \"overwhelmed\" is on WHELMED.",
+   "audio": "C010_D06.mp3"
+  },
+  {
+   "id": "D7",
+   "text": "About 12,000 flights were canceled that day, the FAA says, and some travelers were left stranded at airports overnight.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "12,000",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "12000",
+      "twelve thousand"
+     ]
+    },
+    {
+     "index": 2,
+     "answer": "flights",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "canceled",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "travelers",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "left",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "stranded",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "at",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 18,
+     "answer": "overnight",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Left stranded at\" melts together: the T in \"left\" almost disappears and the D slides into \"at\" — \"lef-STRAN-di-dat.\"",
+   "audio": "C010_D07.mp3"
+  },
+  {
+   "id": "D8",
+   "text": "Early findings point to two sites, including a remote one in Arkansas where a new router was being installed.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "findings",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "point",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "two",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "2"
+     ]
+    },
+    {
+     "index": 5,
+     "answer": "sites",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "including",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "remote",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "router",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 18,
+     "answer": "installed",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Point to two\" has three T sounds close together. \"Was being installed\" is quick and even.",
+   "audio": "C010_D08.mp3"
+  },
+  {
+   "id": "D9",
+   "text": "The root cause remains unclear, and the FAA has paused installation of that type of router.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "root",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "cause",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "remains",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "unclear",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "paused",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "installation",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "type",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "of",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"Type of router\" runs together fast. It sounds like \"TY-puv router.\"",
+   "audio": "C010_D09.mp3"
+  },
+  {
+   "id": "D10",
+   "text": "A software bug at JPMorgan Chase, the nation's largest bank, delayed transactions, including payments to and from other banks.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "software",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "largest",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "delayed",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "transactions",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "payments",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "to",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "and",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "from",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"To and from\" — \"to\" and \"and\" are short and weak, and \"from\" gets the beat.",
+   "audio": "C010_D10.mp3"
+  },
+  {
+   "id": "D11",
+   "text": "And a day after that, several Apple services and a classified network at the National Security Agency were disrupted.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "day",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "after",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "several",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "services",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "classified",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "network",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 18,
+     "answer": "disrupted",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "\"A day after that\" — \"after\" links to \"that\" with a soft T. \"Classified\" has the stress on CLASS.",
+   "audio": "C010_D11.mp3"
+  },
+  {
+   "id": "D12",
+   "text": "There's no evidence these events are linked, and none appears to be the result of a cyberattack.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "There's",
+     "type": "contraction",
+     "inVideo": false
+    },
+    {
+     "index": 2,
+     "answer": "evidence",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "these",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "events",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "linked",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "appears",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "result",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "of",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "a",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "cyberattack",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "\"Result of a\" links into one smooth run: \"ri-ZUL-tuh-vuh.\" \"There's\" is short for \"there is.\"",
+   "audio": "C010_D12.mp3"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "a string of",
+   "meaning": "several similar things that happen one after another",
+   "example": "The team has had a string of wins this month."
+  },
+  {
+   "term": "outage",
+   "meaning": "a period when a service like power or the internet stops working",
+   "example": "The storm caused a power outage across the town."
+  },
+  {
+   "term": "go down",
+   "meaning": "(of a system or website) to stop working for a while",
+   "example": "The ticket website went down minutes after sales began."
+  },
+  {
+   "term": "halt",
+   "meaning": "to make something stop moving or happening",
+   "example": "Heavy snow halted train service for the morning."
+  },
+  {
+   "term": "sit idle",
+   "meaning": "to stay in one place without being used",
+   "example": "The machines sat idle while the factory waited for parts."
+  },
+  {
+   "term": "ground stop",
+   "meaning": "an official order that keeps planes from taking off",
+   "example": "A ground stop kept every flight at the gate for an hour."
+  },
+  {
+   "term": "overwhelm",
+   "meaning": "to be too much for a person or system to handle",
+   "example": "Calls from worried customers overwhelmed the help desk."
+  },
+  {
+   "term": "aging",
+   "meaning": "getting old and no longer working as well as before",
+   "example": "The city plans to replace its aging water pipes."
+  },
+  {
+   "term": "stranded",
+   "meaning": "stuck in a place with no way to leave",
+   "example": "The canceled ferry left tourists stranded on the island."
+  },
+  {
+   "term": "point to",
+   "meaning": "to show that something is probably the cause or the answer",
+   "example": "The test results point to a problem with the battery."
+  },
+  {
+   "term": "root cause",
+   "meaning": "the main, original reason that a problem happened",
+   "example": "Engineers are still looking for the root cause of the leak."
+  },
+  {
+   "term": "remains unclear",
+   "meaning": "is still not known or understood",
+   "example": "It remains unclear when the bridge will reopen."
+  },
+  {
+   "term": "software bug",
+   "meaning": "a mistake in a computer program that makes it work wrongly",
+   "example": "A software bug showed the wrong prices in the app."
+  },
+  {
+   "term": "transactions",
+   "meaning": "acts of paying, sending or receiving money",
+   "example": "The shop handles hundreds of card transactions a day."
+  },
+  {
+   "term": "classified",
+   "meaning": "officially secret and open only to certain people",
+   "example": "The report is classified, so reporters cannot read it."
+  },
+  {
+   "term": "linked",
+   "meaning": "connected to each other in some way",
+   "example": "Doctors say the two illnesses are not linked."
+  },
+  {
+   "term": "cyberattack",
+   "meaning": "an attempt to break into or damage computer systems",
+   "example": "The hospital shut down its network after a cyberattack."
+  }
+ ],
+ "moreFromEmily": [
+  {
+   "kind": "linking",
+   "phrase": "under an order",
+   "soundsLike": "un-der-uh-NOR-der",
+   "sentence": "D4",
+   "note": "\"An\" links to \"order,\" so you hear a small N at the start of \"order.\""
+  },
+  {
+   "kind": "linking",
+   "phrase": "to and from other",
+   "soundsLike": "tuh-and-from-uh-ther",
+   "sentence": "D10",
+   "note": "In this report, David reads these words clearly, one by one. In fast, everyday speech, \"to and\" often shrinks to \"tuh-n.\""
+  },
+  {
+   "kind": "linking",
+   "phrase": "sat idle at",
+   "soundsLike": "sa-TIE-dl-at",
+   "sentence": "D4",
+   "note": "In this report, the words are read clearly. In fast speech, the T in \"sat\" often moves onto \"idle.\""
+  },
+  {
+   "kind": "word",
+   "word": "overwhelm",
+   "stress": "o-ver-WHELM",
+   "meaning": "to be too much for a person or system to handle",
+   "example": "Calls from worried customers overwhelmed the help desk.",
+   "sentence": "D6"
+  },
+  {
+   "kind": "word",
+   "word": "a string of",
+   "stress": "a STRING of",
+   "meaning": "several similar things that happen one after another",
+   "example": "The team has had a string of wins this month.",
+   "sentence": "D1"
+  },
+  {
+   "kind": "word",
+   "word": "root cause",
+   "stress": "ROOT cause",
+   "meaning": "the main, original reason that a problem happened",
+   "example": "Engineers are still looking for the root cause of the leak.",
+   "sentence": "D9"
+  }
+ ]
+}
