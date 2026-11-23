@@ -1,0 +1,841 @@
+{
+ "code": "CTNE 011",
+ "episode": 11,
+ "newsDate": "2026-11-17",
+ "publishDate": "2026-11-23",
+ "title": "Does AI Make You Lonely?",
+ "field": "Society & Life",
+ "reporter": "Sofia Park",
+ "youtubeId": "pnW3v0ClYY4",
+ "thumbnail": "C011_thumb.jpg",
+ "worksheetUrl": "",
+ "sentences": [
+  {
+   "id": "D1",
+   "text": "Across 16 countries, about one in three young people have turned to AI for companionship.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "about",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "three",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "3"
+     ]
+    },
+    {
+     "index": 8,
+     "answer": "people",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "have",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "turned",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "to",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "for",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "companionship",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "“Turned to AI” runs together: “tur-ndu-A-I.” “For companionship” is quick: “fer-com-PAN-yun-ship.”",
+   "audio": "C011_D01.mp3"
+  },
+  {
+   "id": "D2",
+   "text": "The study, by Gallup and a lab at Boston Children's Hospital, surveyed nearly 16,000 people aged 15 to 22.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "study",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 2,
+     "answer": "by",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "a",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "lab",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "at",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "surveyed",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "nearly",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "aged",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "“A lab at” links into one sound: “uh-LA-bat.” “Nearly” is soft and fast.",
+   "audio": "C011_D02.mp3"
+  },
+  {
+   "id": "D3",
+   "text": "Young people who use AI for companionship were also more likely to struggle with loneliness.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "who",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "use",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "were",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "also",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "likely",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "struggle",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "with",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "loneliness",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "“Were also” runs together: “wer-AWL-so.” “Struggle with” sounds like “STRUG-ul-with.”",
+   "audio": "C011_D03.mp3"
+  },
+  {
+   "id": "D4",
+   "text": "Still, most have friends offline: in a typical country, about 93 percent have at least one in-person friend.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "most",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "offline",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "typical",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "have",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "at",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "least",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "one",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "in-person",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "“Have at least one” links: “ha-vat-least one.” Listen for the small pause before “one.”",
+   "audio": "C011_D04.mp3"
+  },
+  {
+   "id": "D5",
+   "text": "But most also have at least one friendship that began face to face and now plays out largely online.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "also",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "began",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "face",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "to",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "face",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "plays",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "out",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 17,
+     "answer": "largely",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "“Face to face” becomes “fay-stuh-FACE.” “Plays out” links: “play-ZOUT.”",
+   "audio": "C011_D05.mp3"
+  },
+  {
+   "id": "D6",
+   "text": "And quality matters: those with high-quality in-person friendships were less likely to feel lonely.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "quality",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "matters",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "those",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "with",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "less",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "likely",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "to",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "feel",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "“Less likely to” is fast: “les-LIKE-lee-tuh.”",
+   "audio": "C011_D06.mp3"
+  },
+  {
+   "id": "D7",
+   "text": "Among AI users, those with friends they've never met in person were more likely to turn to it for companionship.",
+   "blanks": [
+    {
+     "index": 5,
+     "answer": "friends",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "they've",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "never",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "met",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "likely",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 15,
+     "answer": "turn",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "to",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 17,
+     "answer": "it",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 18,
+     "answer": "for",
+     "type": "function",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "“Turn to it for” blends into “turn-tuh-wit-fer.” “They've never met” is quick and light.",
+   "audio": "C011_D07.mp3"
+  },
+  {
+   "id": "D8",
+   "text": "And the more often they use AI, the more likely they are to treat it as a friend.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "more",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "often",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "likely",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "are",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "treat",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "it",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "as",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "a",
+     "type": "function",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "“The more often” is smooth: “thuh-mor-OFF-en.” “Treat it as a” links: “tree-di-da-zuh.”",
+   "audio": "C011_D08.mp3"
+  },
+  {
+   "id": "D9",
+   "text": "So, does AI make young people lonely? The researchers say the survey can't untangle cause and effect.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "does",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "make",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "survey",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "can't",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "untangle",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "cause",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "and",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "effect",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "“Can't untangle” links: “can-tun-TANG-gul.” “Cause and effect” sounds like “cawz-n-uh-FECT.”",
+   "audio": "C011_D09.mp3"
+  },
+  {
+   "id": "D10",
+   "text": "Lonely people may lean on AI to fill a gap, or AI may be reshaping how they connect.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "may",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "lean",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "on",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "fill",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "a",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "gap",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "may",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "reshaping",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 17,
+     "answer": "connect",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "“Lean on AI” links: “lee-non-A-I.” “Fill a gap” sounds like “fi-luh-GAP.”",
+   "audio": "C011_D10.mp3"
+  },
+  {
+   "id": "D11",
+   "text": "Nor can it say whether AI adds to human relationships or stands in for them.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "Nor",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 1,
+     "answer": "can",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "it",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "say",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "whether",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "adds",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "stands",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "in",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "for",
+     "type": "function",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "“Nor can it say” rushes together: “nor-kuh-nit-say.” “Stands in for” sounds like “stan-zin-fer.”",
+   "audio": "C011_D11.mp3"
+  },
+  {
+   "id": "D12",
+   "text": "The researchers' bottom line: it's not just how much time young people spend online — it's how they connect.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "bottom",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "line",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "not",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "just",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "how",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "much",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "spend",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 18,
+     "answer": "connect",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "“Bottom line” sounds like “BAH-dum line.” “Not just how much” is fast: “not-jus-how-much.”",
+   "audio": "C011_D12.mp3"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "turn to",
+   "meaning": "to go to someone or something for help or comfort",
+   "example": "When she feels stressed, she turns to music."
+  },
+  {
+   "term": "companionship",
+   "meaning": "the feeling of having someone with you, so you are not alone",
+   "example": "Many older people keep a dog for companionship."
+  },
+  {
+   "term": "struggle with",
+   "meaning": "to have a hard time dealing with something",
+   "example": "He struggled with the new software at first."
+  },
+  {
+   "term": "in-person",
+   "meaning": "happening face to face, not online",
+   "example": "The class will be in-person again next term."
+  },
+  {
+   "term": "face to face",
+   "meaning": "directly, with both people in the same place",
+   "example": "We finally met face to face after years of emails."
+  },
+  {
+   "term": "play out",
+   "meaning": "to happen or develop in a certain way",
+   "example": "No one knows how the election will play out."
+  },
+  {
+   "term": "largely",
+   "meaning": "mostly; for the most part",
+   "example": "The new park was largely paid for by local donors."
+  },
+  {
+   "term": "treat … as",
+   "meaning": "to think of or deal with someone or something in a certain way",
+   "example": "She treats her phone as an alarm clock."
+  },
+  {
+   "term": "untangle",
+   "meaning": "to separate things that are mixed up, or to make something clear",
+   "example": "It took hours to untangle the facts of the case."
+  },
+  {
+   "term": "cause and effect",
+   "meaning": "how one thing makes another thing happen",
+   "example": "The lesson explains cause and effect in weather."
+  },
+  {
+   "term": "lean on",
+   "meaning": "to depend on someone or something for support",
+   "example": "You can always lean on your friends in hard times."
+  },
+  {
+   "term": "fill a gap",
+   "meaning": "to provide something that is missing",
+   "example": "The new bus line fills a gap in the city's transport."
+  },
+  {
+   "term": "reshape",
+   "meaning": "to change the form or nature of something",
+   "example": "Smartphones have reshaped how we shop."
+  },
+  {
+   "term": "nor can it (say)",
+   "meaning": "also cannot; used after a negative, with the word order flipped",
+   "example": "The map isn't new, nor can it show the new roads."
+  },
+  {
+   "term": "add to",
+   "meaning": "to make something bigger or better by including more",
+   "example": "The garden really adds to the house."
+  },
+  {
+   "term": "stand in for",
+   "meaning": "to take the place of someone or something",
+   "example": "A teacher from another class stood in for Ms. Lee."
+  },
+  {
+   "term": "bottom line",
+   "meaning": "the most important point or final result",
+   "example": "The bottom line is that we need more time."
+  }
+ ],
+ "moreFromEmily": [
+  {
+   "kind": "linking",
+   "phrase": "less likely to feel",
+   "soundsLike": "les-LIKE-lee-tuh-feel",
+   "sentence": "D6",
+   "note": "“Likely to” shrinks: “to” becomes a quick “tuh” and leans on “feel.”"
+  },
+  {
+   "kind": "linking",
+   "phrase": "treat it as a",
+   "soundsLike": "tree-di-da-zuh",
+   "sentence": "D8",
+   "note": "In this report, Sofia reads these words fairly clearly. In fast, everyday speech, they often blend into “tree-di-da-zuh.”"
+  },
+  {
+   "kind": "linking",
+   "phrase": "not just how much",
+   "soundsLike": "not-jus-how-much",
+   "sentence": "D12",
+   "note": "The T at the end of “just” almost disappears before “how.”"
+  },
+  {
+   "kind": "word",
+   "word": "untangle",
+   "stress": "un-TAN-gle",
+   "meaning": "to separate things that are mixed up, or to make something clear",
+   "example": "The detective tried to untangle the story.",
+   "sentence": "D9"
+  },
+  {
+   "kind": "word",
+   "word": "fill a gap",
+   "stress": "fill a GAP",
+   "meaning": "to provide something that is missing",
+   "example": "Online classes filled a gap during the winter storms.",
+   "sentence": "D10"
+  },
+  {
+   "kind": "word",
+   "word": "lean on",
+   "stress": "LEAN on",
+   "meaning": "to depend on someone or something for support",
+   "example": "New workers often lean on a mentor in their first year.",
+   "sentence": "D10"
+  }
+ ]
+}
