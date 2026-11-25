@@ -1,0 +1,893 @@
+{
+ "code": "CTNE 012",
+ "episode": 12,
+ "newsDate": "2026-11-22",
+ "publishDate": "2026-11-25",
+ "title": "Fake Shops Look Real",
+ "field": "Science & Tech",
+ "reporter": "Sarah Jenkins",
+ "youtubeId": "1fpblAbLr8U",
+ "thumbnail": "C012_thumb.jpg",
+ "worksheetUrl": "",
+ "sentences": [
+  {
+   "id": "D1",
+   "text": "With Black Friday just days away, officials and banks in several countries are warning shoppers about fake online stores.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "just",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "days",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "away",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "and",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "several",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "warning",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "shoppers",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "about",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'just days away' runs together: jus-days-away.",
+   "audio": "C012_D01.mp3"
+  },
+  {
+   "id": "D2",
+   "text": "The sites are getting more convincing, and experts say AI is a big part of why.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "are",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "getting",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "convincing",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "a",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "big",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "part",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "of",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "why",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'a big part of why' sounds like uh-big-par-duv-why.",
+   "audio": "C012_D02.mp3"
+  },
+  {
+   "id": "D3",
+   "text": "So how can you tell a real deal from a trap?",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "how",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 2,
+     "answer": "can",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "you",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "tell",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "a",
+     "type": "linking",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "real",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "from",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "a",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'can you tell a' sounds like kuh-nyuh-tell-uh.",
+   "audio": "C012_D03.mp3"
+  },
+  {
+   "id": "D4",
+   "text": "The ads pop up on social media, promising huge discounts and warning that stock's about to run out.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "pop",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "up",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "on",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "promising",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "warning",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "stock's",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "about",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "to",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'pop up on' sounds like pa-pu-pon; 'stock's about to' sounds like stak-suh-bou-duh.",
+   "audio": "C012_D04.mp3"
+  },
+  {
+   "id": "D5",
+   "text": "Click on the ad, and you'll land on a store that looks polished and professional.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "Click",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 1,
+     "answer": "on",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "the",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "ad",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "and",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "you'll",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "on",
+     "type": "linking",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "a",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "polished",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "and",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'Click on the ad' links: cli-kon-the-ad; 'and you'll' gets very short.",
+   "audio": "C012_D05.mp3"
+  },
+  {
+   "id": "D6",
+   "text": "According to the group that manages Belgium's web addresses, AI helps scammers churn out realistic photos and believable fake reviews.",
+   "blanks": [
+    {
+     "index": 8,
+     "answer": "addresses",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "helps",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "scammers",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "churn",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "out",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "realistic",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "and",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 17,
+     "answer": "believable",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'churn out' joins: chur-nout.",
+   "audio": "C012_D06.mp3"
+  },
+  {
+   "id": "D7",
+   "text": "Victims may wait for a package that never turns up, or end up with a poor-quality product.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "may",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "for",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "a",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "turns",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "up",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "or",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "end",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "up",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "with",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "a",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'turns up, or end up with' sounds like tur-nzup-or en-dup-with.",
+   "audio": "C012_D07.mp3"
+  },
+  {
+   "id": "D8",
+   "text": "In one security firm's survey, about four in ten Gen Z shoppers had faced an AI shopping scam in the past year.",
+   "blanks": [
+    {
+     "index": 4,
+     "answer": "survey",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "four",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "4"
+     ]
+    },
+    {
+     "index": 7,
+     "answer": "in",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "ten",
+     "type": "number",
+     "inVideo": false,
+     "accept": [
+      "10"
+     ]
+    },
+    {
+     "index": 12,
+     "answer": "had",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "faced",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "an",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 17,
+     "answer": "scam",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 18,
+     "answer": "in",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 19,
+     "answer": "the",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'had faced an' links: had-fay-stan.",
+   "audio": "C012_D08.mp3"
+  },
+  {
+   "id": "D9",
+   "text": "Regulators, consumer groups and police in the Netherlands advise checking who's behind a shop and paying with buyer protection.",
+   "blanks": [
+    {
+     "index": 3,
+     "answer": "and",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "advise",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "checking",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "who's",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "behind",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "a",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "and",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 17,
+     "answer": "buyer",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 18,
+     "answer": "protection",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'who's behind a' sounds like hooz-bee-hine-duh.",
+   "audio": "C012_D09.mp3"
+  },
+  {
+   "id": "D10",
+   "text": "Experts also suggest checking the web address and finding out how long the site's been around.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "also",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 2,
+     "answer": "suggest",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "the",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "address",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "and",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "how",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "the",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "site's",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "been",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "around",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'the site's been around' sounds like the-sites-bin-uh-round.",
+   "audio": "C012_D10.mp3"
+  },
+  {
+   "id": "D11",
+   "text": "Because reviews on a shop's own page can be faked, officials recommend reading independent reviews elsewhere.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "reviews",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "on",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 3,
+     "answer": "a",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "can",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "be",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "faked",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "recommend",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "independent",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "elsewhere",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'can be faked' is quick: kun-bee-faked.",
+   "audio": "C012_D11.mp3"
+  },
+  {
+   "id": "D12",
+   "text": "Can you spot a fake shop? Not at a glance — but a few minutes of checking can save you money.",
+   "blanks": [
+    {
+     "index": 0,
+     "answer": "Can",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 1,
+     "answer": "you",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "spot",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "a",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "at",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "a",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "glance",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "few",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "minutes",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 15,
+     "answer": "of",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 16,
+     "answer": "checking",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 17,
+     "answer": "can",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'Can you spot a' sounds like kuh-nyuh-spot-uh; 'Not at a' sounds like nah-da-duh.",
+   "audio": "C012_D12.mp3"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "just days away",
+   "meaning": "coming very soon, in only a few days",
+   "example": "The exam is just days away, so I'm studying every night."
+  },
+  {
+   "term": "a big part of why",
+   "meaning": "one of the main reasons for something",
+   "example": "Good coffee is a big part of why I love that café."
+  },
+  {
+   "term": "tell A from B",
+   "meaning": "to see the difference between two things",
+   "example": "Can you tell a real diamond from a fake one?"
+  },
+  {
+   "term": "pop up",
+   "meaning": "to appear suddenly and without warning",
+   "example": "New cafés keep popping up near my office."
+  },
+  {
+   "term": "polished",
+   "meaning": "smooth, neat and very professional-looking",
+   "example": "Her presentation was short but very polished."
+  },
+  {
+   "term": "scammer",
+   "meaning": "a person who tricks people to take their money",
+   "example": "A scammer called my grandmother and asked for her bank details."
+  },
+  {
+   "term": "churn out",
+   "meaning": "to make a lot of something quickly, without much care",
+   "example": "Some websites churn out dozens of short articles a day."
+  },
+  {
+   "term": "end up with",
+   "meaning": "to finally have something you did not plan or want",
+   "example": "I went shopping for shoes and ended up with a jacket."
+  },
+  {
+   "term": "who's behind",
+   "meaning": "the person or group that really runs or controls something",
+   "example": "Nobody knows who's behind the new app."
+  },
+  {
+   "term": "been around",
+   "meaning": "to have existed for a certain time",
+   "example": "That bakery has been around for fifty years."
+  },
+  {
+   "term": "buyer protection",
+   "meaning": "a promise that you get your money back if a purchase goes wrong",
+   "example": "Pay by card so you have buyer protection."
+  },
+  {
+   "term": "independent reviews",
+   "meaning": "opinions written by people who are not connected to the seller",
+   "example": "I always read independent reviews before I book a hotel."
+  },
+  {
+   "term": "at a glance",
+   "meaning": "immediately, after only a quick look",
+   "example": "At a glance, the two bags look exactly the same."
+  },
+  {
+   "term": "spot",
+   "meaning": "to notice or find something that is hard to see",
+   "example": "Can you spot the mistake in this sentence?"
+  }
+ ],
+ "moreFromEmily": [
+  {
+   "kind": "linking",
+   "phrase": "stock's about to run out",
+   "soundsLike": "stak-suh-bou-duh run out",
+   "sentence": "D4",
+   "note": "The 's joins the next word, and the t in 'about to' turns soft."
+  },
+  {
+   "kind": "linking",
+   "phrase": "the site's been around",
+   "soundsLike": "the-sites-bin-uh-round",
+   "sentence": "D10",
+   "note": "'has' shrinks to 's, and 'been' sounds like 'bin'. Be around = to exist."
+  },
+  {
+   "kind": "linking",
+   "phrase": "Not at a glance",
+   "soundsLike": "nah-da-duh-glance",
+   "sentence": "D12",
+   "note": "Both t sounds turn into a quick d sound."
+  },
+  {
+   "kind": "linking",
+   "phrase": "a big part of why",
+   "soundsLike": "uh-big-par-duv-why",
+   "sentence": "D2",
+   "note": "In this news, it's read quite clearly."
+  },
+  {
+   "kind": "linking",
+   "phrase": "turns up, or end up with",
+   "soundsLike": "tur-nzup-or en-dup-with",
+   "sentence": "D7",
+   "note": "In this news, it's read quite clearly."
+  },
+  {
+   "kind": "word",
+   "word": "polished",
+   "stress": "POL-ished",
+   "meaning": "smooth, neat and very professional-looking",
+   "example": "He gave a polished answer in the job interview.",
+   "sentence": "D5"
+  }
+ ]
+}
