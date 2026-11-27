@@ -1,0 +1,864 @@
+{
+ "code": "CTNE 013",
+ "episode": 13,
+ "newsDate": "2026-11-16",
+ "publishDate": "2026-11-27",
+ "title": "Fewer Students Want U.S. Colleges",
+ "field": "Politics & World",
+ "reporter": "Marcus Jordan",
+ "youtubeId": "RNRwgsPtmLo",
+ "thumbnail": "C013_thumb.jpg",
+ "worksheetUrl": "",
+ "sentences": [
+  {
+   "id": "D1",
+   "text": "The U.S. is still the top destination for students going abroad, but it's losing some of its pull.",
+   "blanks": [
+    {
+     "index": 5,
+     "answer": "top",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "destination",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "going",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "abroad",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 12,
+     "answer": "it's",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "losing",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "some",
+     "type": "linking",
+     "inVideo": false
+    },
+    {
+     "index": 15,
+     "answer": "of",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 17,
+     "answer": "pull",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'losing some of its pull' runs together: loo-zing-sum-uv-its-pull.",
+   "audio": "C013_D01.mp3"
+  },
+  {
+   "id": "D2",
+   "text": "Figures out this month show new international enrollment in the U.S. fell about 18 percent last school year.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "out",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "new",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 6,
+     "answer": "international",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "enrollment",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "in",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "fell",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "about",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "last",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 16,
+     "answer": "school",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'Figures out' links: fig-yer-zout. '18' is eighteen, not eighty.",
+   "audio": "C013_D02.mp3"
+  },
+  {
+   "id": "D3",
+   "text": "So where are students going instead, and what do they care about most?",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "where",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "are",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "students",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "going",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "what",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "do",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "they",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "about",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'what do they care about' sounds like wuh-duh-they-care-uh-bout.",
+   "audio": "C013_D03.mp3"
+  },
+  {
+   "id": "D4",
+   "text": "On campuses across the country, there are fewer new faces from overseas this fall.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "across",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "there",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "are",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "fewer",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "new",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 9,
+     "answer": "faces",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "from",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "overseas",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'there are fewer' sounds like thair-uh-few-er.",
+   "audio": "C013_D04.mp3"
+  },
+  {
+   "id": "D5",
+   "text": "An early survey of hundreds of colleges points to a second straight year of double-digit drops in new international students.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "early",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 2,
+     "answer": "survey",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "points",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "to",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "a",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "second",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "straight",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 14,
+     "answer": "double-digit",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "drops",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'points to a second straight year' sounds like poin-tsuh-duh-sec-un-straight-year.",
+   "audio": "C013_D05.mp3"
+  },
+  {
+   "id": "D6",
+   "text": "Schools that saw a drop mostly pointed to the visa process, travel limits and students choosing other countries.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "saw",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "a",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 4,
+     "answer": "drop",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "pointed",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "to",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "visa",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 10,
+     "answer": "process",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "limits",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 15,
+     "answer": "choosing",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'saw a drop' links: saw-uh-drop; 'pointed to the' sounds like poin-tid-tuh-thuh.",
+   "audio": "C013_D06.mp3"
+  },
+  {
+   "id": "D7",
+   "text": "Students are shopping around: in a survey earlier this year, most were comparing more than one country.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "shopping",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "around",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "survey",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 7,
+     "answer": "earlier",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "most",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "were",
+     "type": "function",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "comparing",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "more",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "than",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'shopping around' joins: shop-ing-uh-round.",
+   "audio": "C013_D07.mp3"
+  },
+  {
+   "id": "D8",
+   "text": "More students now check early on whether they can count on a visa, along with costs and jobs after graduation.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "now",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "early",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "on",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "whether",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "can",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "count",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "on",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 13,
+     "answer": "along",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "with",
+     "type": "function",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'can count on a' sounds like kuhn-coun-ton-uh.",
+   "audio": "C013_D08.mp3"
+  },
+  {
+   "id": "D9",
+   "text": "In the same survey, about half said they'd considered Europe or Asia, with Germany among the top picks.",
+   "blanks": [
+    {
+     "index": 2,
+     "answer": "same",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "about",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 5,
+     "answer": "half",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "they'd",
+     "type": "contraction",
+     "inVideo": true
+    },
+    {
+     "index": 8,
+     "answer": "considered",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "with",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "among",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "top",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 17,
+     "answer": "picks",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'said they'd considered' sounds like sed-theyd-kuhn-sid-erd.",
+   "audio": "C013_D09.mp3"
+  },
+  {
+   "id": "D10",
+   "text": "In the U.S., a big draw is the chance to work after graduating, often called post-study work.",
+   "blanks": [
+    {
+     "index": 4,
+     "answer": "big",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "draw",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "is",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 8,
+     "answer": "chance",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "to",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 10,
+     "answer": "work",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 11,
+     "answer": "after",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "graduating",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "called",
+     "type": "vocab",
+     "inVideo": false
+    }
+   ],
+   "soundNote": "'chance to work after' sounds like chan-tuh-wor-kaf-ter.",
+   "audio": "C013_D10.mp3"
+  },
+  {
+   "id": "D11",
+   "text": "Almost every college that answered said limits on post-study work would likely lead students to look elsewhere.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "every",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 3,
+     "answer": "that",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "answered",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 6,
+     "answer": "limits",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "on",
+     "type": "function",
+     "inVideo": false
+    },
+    {
+     "index": 11,
+     "answer": "likely",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 12,
+     "answer": "lead",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 15,
+     "answer": "look",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 16,
+     "answer": "elsewhere",
+     "type": "vocab",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'look elsewhere' links: loo-kels-where.",
+   "audio": "C013_D11.mp3"
+  },
+  {
+   "id": "D12",
+   "text": "So where are students going? Wherever the costs, the jobs and the visa rules add up.",
+   "blanks": [
+    {
+     "index": 1,
+     "answer": "where",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 2,
+     "answer": "are",
+     "type": "linking",
+     "inVideo": false
+    },
+    {
+     "index": 4,
+     "answer": "going",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 5,
+     "answer": "Wherever",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 7,
+     "answer": "costs",
+     "type": "vocab",
+     "inVideo": true
+    },
+    {
+     "index": 9,
+     "answer": "jobs",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 13,
+     "answer": "rules",
+     "type": "vocab",
+     "inVideo": false
+    },
+    {
+     "index": 14,
+     "answer": "add",
+     "type": "linking",
+     "inVideo": true
+    },
+    {
+     "index": 15,
+     "answer": "up",
+     "type": "linking",
+     "inVideo": true
+    }
+   ],
+   "soundNote": "'Where are students going' sounds like wair-er-stoo-dents-go-in; 'add up' joins: a-dup.",
+   "audio": "C013_D12.mp3"
+  }
+ ],
+ "vocab": [
+  {
+   "term": "top destination",
+   "meaning": "the place that most people choose to go",
+   "example": "Paris is a top destination for honeymoons."
+  },
+  {
+   "term": "lose its pull",
+   "meaning": "to become less attractive, so fewer people want it",
+   "example": "The old shopping street is losing its pull."
+  },
+  {
+   "term": "figures out",
+   "meaning": "numbers that have just been released",
+   "example": "Figures out today show more people are cycling to work."
+  },
+  {
+   "term": "enrollment",
+   "meaning": "the number of people who sign up for a school or course",
+   "example": "Enrollment in the night class doubled this year."
+  },
+  {
+   "term": "point to",
+   "meaning": "to show something, or to name it as a reason",
+   "example": "Doctors point to poor sleep as one cause of stress."
+  },
+  {
+   "term": "a second straight year",
+   "meaning": "two years in a row, one after the other",
+   "example": "Our team won the cup for a second straight year."
+  },
+  {
+   "term": "double-digit",
+   "meaning": "10 or more, a number with two digits",
+   "example": "Prices saw a double-digit rise last month."
+  },
+  {
+   "term": "the bottom line",
+   "meaning": "the most important point in the end",
+   "example": "The bottom line is that we need more time."
+  },
+  {
+   "term": "shop around",
+   "meaning": "to compare different options before you choose",
+   "example": "It pays to shop around for car insurance."
+  },
+  {
+   "term": "count on",
+   "meaning": "to trust that something will happen or be there",
+   "example": "You can count on her to finish the job."
+  },
+  {
+   "term": "a big draw",
+   "meaning": "something that attracts many people",
+   "example": "The night market is a big draw for tourists."
+  },
+  {
+   "term": "post-study work",
+   "meaning": "a job you can do after you finish your studies",
+   "example": "Some countries allow two years of post-study work."
+  },
+  {
+   "term": "look elsewhere",
+   "meaning": "to search in a different place",
+   "example": "If this shop is too expensive, we can look elsewhere."
+  },
+  {
+   "term": "add up",
+   "meaning": "to make sense, or to be worth it when you check everything",
+   "example": "The price, the size and the location all add up."
+  }
+ ],
+ "moreFromEmily": [
+  {
+   "kind": "linking",
+   "phrase": "what do they care about",
+   "soundsLike": "wuh-duh-they-care-uh-bout",
+   "sentence": "D3",
+   "note": "In this news, it's read quite clearly."
+  },
+  {
+   "kind": "linking",
+   "phrase": "there are fewer new faces",
+   "soundsLike": "thair-uh-few-er",
+   "sentence": "D4",
+   "note": "'there are' shrinks to one short sound."
+  },
+  {
+   "kind": "linking",
+   "phrase": "points to a second straight year",
+   "soundsLike": "poin-tsuh-duh-sec-un-straight",
+   "sentence": "D5",
+   "note": "The t in 'points to' almost disappears, and 'to a' sounds like 'tuh-duh'."
+  },
+  {
+   "kind": "linking",
+   "phrase": "So where are students going?",
+   "soundsLike": "so-wair-er-stoo-dents-go-in",
+   "sentence": "D12",
+   "note": "A question head: 'where are' runs together."
+  },
+  {
+   "kind": "word",
+   "word": "double-digit",
+   "stress": "DOU-ble-DIG-it",
+   "meaning": "10 or more, a number with two digits",
+   "example": "The company saw double-digit growth.",
+   "sentence": "D5"
+  },
+  {
+   "kind": "word",
+   "word": "look elsewhere",
+   "stress": "look ELSE-where",
+   "meaning": "to search in a different place",
+   "example": "The café was full, so we looked elsewhere.",
+   "sentence": "D11"
+  }
+ ]
+}
